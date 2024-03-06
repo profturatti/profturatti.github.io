@@ -16,7 +16,8 @@ Os materiais estarão disponíveis aqui organizados como:
 <iframe 
   src="https://www.example.com" 
   title="Titulo do iframe" 
-  style="border: none" 
-  height="500" 
-  width="800"
-></iframe></div>
+  style="
+    border-style: none;
+    height: '500';
+    width: '800';">
+</iframe>
