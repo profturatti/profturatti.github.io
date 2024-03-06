@@ -1,6 +1,6 @@
 # Professor Luiz Gustavo TURATTI
 
-## e-mail: profDOTturattiATgmailDOTcom
+e-mail: profDOTturattiATgmailDOTcom
 
 Os materiais estarão disponíveis aqui organizados como:
 
@@ -18,6 +18,5 @@ Os materiais estarão disponíveis aqui organizados como:
   title="Titulo do iframe" 
   style="
     border-style: none;
-    height: '500';
-    width: '800';">
-</iframe>
+    height: 500px;
+    width: 800px;"></iframe>
