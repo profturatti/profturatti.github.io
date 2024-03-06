@@ -13,4 +13,10 @@ Os materiais estarão disponíveis aqui organizados como:
   - [Resumo Linguagem C](https://quickref.me/c.html)
   - [Resumo Linguagem Python](https://quickref.me/python.html)
 
-<div><iframe src="https://www.example.com" title="Titulo do iframe" style="border: none;" height="500" width="800"></iframe></div>
+<iframe 
+  src="https://www.example.com" 
+  title="Titulo do iframe" 
+  style="border: none" 
+  height="500" 
+  width="800"
+></iframe></div>
