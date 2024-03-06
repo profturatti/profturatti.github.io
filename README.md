@@ -1,4 +1,3 @@
-# Professor Luiz Gustavo TURATTI
 
 e-mail: profDOTturattiATgmailDOTcom
 
