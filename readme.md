@@ -29,9 +29,9 @@ body {
   <dd>- <a href="https://quickref.me/markdown.html">Resumo Linguagem Markdown / Guia de referência rápida</a></dd>
   <dd>- <a href="https://quickref.me/python.html">Resumo Linguagem Python / Guia de referência rápida</a></dd>
   <dd>- <a href="./python3_reference_cheat_sheet.pdf" target="iframe_a">Referência de Python 3</a></dd>
+  <dd>- <a href="https://hub.asimov.academy/blog/como-instalar-e-configurar-o-vscode/" target="_new">Como instalar e configurar o VS Code para Python</a></dd>
   <dd>- <a href="">descricao</a></dd>
-  <dd>- <a href="">descricao</a></dd>
-  <dd>- <a href="">descricao</a></dd>
+  
 </dl>
   
 <iframe
@@ -39,7 +39,7 @@ body {
   src="./welcome.html" 
   title="Titulo do iframe" 
   style="border-style: none;"
-  height="600"
+  height="768"
   width="1024">
 </iframe>
 
