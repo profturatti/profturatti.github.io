@@ -58,4 +58,4 @@ function fncColorMode() {
    element.classList.toggle("dark-mode");
 }
 </script>
-</body>
+
