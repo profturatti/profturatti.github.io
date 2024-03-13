@@ -15,9 +15,8 @@ body {
 <button onclick="fncColorMode()">Toggle dark/light mode</button>
 
 <h3> 🛠 Systems, Languages and Tools</h3>
-<p><img src="https://skillicons.dev/icons?i=linux,windows,apple,raspberrypi,arduino,vscode,git,github,gitlab,docker,kubernetes,c,cpp,py,php,js,nodejs,react,ts,html,css,mysql,postgresql,graphql,angular,nestjs,nextjs&perline=12"></p>
-
-<p>Os conteúdos das disciplinas estão organizados por linguagem utilizada:</p>
+<p><img src="https://skillicons.dev/icons?i=linux,windows,apple,raspberrypi,arduino,powershell,vscode,git,github,gitlab,docker,kubernetes,c,cpp,py,php,js,nodejs,react,ts,html,css,mysql,postgresql,graphql,angular,nestjs,nextjs,prisma,jest&perline=12"></p>
+[mais icones](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)
 
 <dl>
   <dt>Disciplinas:</dt>
@@ -50,8 +49,4 @@ function fncColorMode() {
    element.classList.toggle("dark-mode");
 }
 </script>
-<div align="center">
-  <a href="https://www.linkedin.com/in/lgturatti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:profturatti@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</div>
 </body>
