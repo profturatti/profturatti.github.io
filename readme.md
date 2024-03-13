@@ -16,7 +16,7 @@ body {
 
 <h3> 🛠 Systems, Languages and Tools</h3>
 <p><img src="https://skillicons.dev/icons?i=linux,windows,apple,raspberrypi,arduino,powershell,vscode,git,github,gitlab,docker,kubernetes,c,cpp,py,php,js,nodejs,react,ts,html,css,mysql,postgresql,graphql,angular,nestjs,nextjs,prisma,jest&perline=12"></p>
-[mais icones](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)
+<p><a href="https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list" target="_new">veja mais icones</a>
 
 <dl>
   <dt>Disciplinas:</dt>
