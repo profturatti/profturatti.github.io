@@ -1,5 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
 
-e-mail: profDOTturattiATgmailDOTcom
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+</style>
+</head>
+<body>
+<button onclick="myFunction()">Toggle dark/light mode</button>
+
+e-mail: prof.turatti @ gmail.com
 
 Os materiais estarão disponíveis aqui organizados como:
 
@@ -21,3 +41,12 @@ Os materiais estarão disponíveis aqui organizados como:
   style="border-style: none;"
   height="500"
   width="800"></iframe>
+
+<script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
+</body>
+</html>
