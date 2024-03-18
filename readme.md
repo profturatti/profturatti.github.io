@@ -49,11 +49,13 @@ Materiais das disciplinas
   <a href="https://www.linkedin.com/in/lgturatti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:prof.turatti@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </div>
+<p>
 <p>Mude o modo de cores desta página para <button onclick="fncColorMode()">claro/escuro</button>
 
 <h3> 🛠 Sistemas, Linguagens e ferramentas</h3>
 <p><img src="https://skillicons.dev/icons?i=linux,windows,apple,raspberrypi,arduino,powershell,vscode,git,github,gitlab,docker,kubernetes,c,cpp,py,php,js,nodejs,react,ts,html,css,mysql,postgresql,graphql,angular,nestjs,nextjs,prisma,jest&perline=12"></p>
-<p>Gostou desse conjunto de ícones? Você também pode relacionar as tecnologias que utiliza e trabalha. Veja o código fonte desta página e consulte os ícones disponíveis <a href="https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list" target="_new">aqui</a>.
+<p>Gostou desse conjunto de ícones? Você também pode relacionar as tecnologias que utiliza e trabalha. 
+<br>Veja o código fonte desta página e consulte os ícones disponíveis <a href="https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list" target="_new">aqui</a>.
 
 <dl>
   <dt>Disciplinas:</dt>
