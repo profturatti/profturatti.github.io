@@ -22,9 +22,10 @@
   
   background: #ebab34;
   border-radius: 16px;
-  padding:24px;
+  padding:8px;
   align-items:center;
   flex-direction:column;
+  font-size: 32px;
 }
 
 body {
@@ -41,7 +42,7 @@ body {
 
 <body>
 <div class='centralize'>
-<h1>Materiais das disciplinas</h1>
+Materiais das disciplinas
 </div>
 <p>
 <div align="center">
