@@ -81,7 +81,7 @@ Materiais das disciplinas
   <dd>- <a href="https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf" target="_new">The C Programming Language - 2nd Ed. ebook</a></dd>
   <dd>- <a href="" target="_new">Video</a> sobre lógica e funcionamento de tabela verdade</dd>
 </dl>
-  
+<!--  
 <iframe
   name="iframe_a"
   scrolling="no"
@@ -91,7 +91,7 @@ Materiais das disciplinas
   height="768"
   width="1024">
 </iframe>
-
+-->
 <script>
 function fncColorMode() {
    var element = document.body;
