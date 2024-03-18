@@ -28,10 +28,10 @@
 }
 
 body {
-  padding: 25px;
+  padding: 8px;
   background-color: white;
   color: black;
-  font-size: 25px;
+  font-size: 20px;
 }
 .dark-mode {
   background-color: black;
@@ -41,9 +41,9 @@ body {
 
 <body>
 <div class='centralize'>
-<div><h1>Materiais do Prof. Luiz Gustavo Turatti</h1></div>
+<h1>Materiais das disciplinas</h1>
 </div>
-
+<p>
 <div align="center">
   <a href="https://www.linkedin.com/in/lgturatti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:prof.turatti@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
