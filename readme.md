@@ -1,4 +1,4 @@
-<style type="text/css">
+<style>
 .centralizeContent {
   display: -webkit-box;
   display: -moz-box;
