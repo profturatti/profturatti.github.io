@@ -1,4 +1,32 @@
-<style>
+<style type="text/css">
+.centralizeContent {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  
+  align-items:center;
+  justify-content:center;
+  
+  height: 100vh;
+  width: 100%;
+  background: 'white';
+}
+.centralize {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  
+  background: #ebab34;
+  border-radius: 16px;
+  padding:24px;
+  align-items:center;
+  flex-direction:column;
+}
+
 body {
   padding: 25px;
   background-color: white;
@@ -12,6 +40,10 @@ body {
 </style>
 
 <body>
+<div class='centralize'>
+<div><h1>Materiais do Prof. Luiz Gustavo Turatti</h1></div>
+</div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/lgturatti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:prof.turatti@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
