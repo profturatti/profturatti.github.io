@@ -46,8 +46,11 @@ Materiais das disciplinas
 </div>
 <p>
 <div align="center">
+  email: luiz.turatti @ professores.unimetrocamp.edu.br
+<!--  
   <a href="https://www.linkedin.com/in/lgturatti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:prof.turatti@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+-->
 </div>
 <p>
 <p>Mude o modo de cores desta página para <button onclick="fncColorMode()">claro/escuro</button>
@@ -84,6 +87,7 @@ Materiais das disciplinas
   <dd>- <a href="https://quickref.me/html.html" target="_new">Resumo Linguagem de marcação de hipertexto (HTML)</a></dd>
   <dd>- <a href="./python3_reference_cheat_sheet.pdf" target="_new">Referência de Python 3</a></dd>
   <dd>- <a href="https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf" target="_new">The C Programming Language - 2nd Ed. ebook</a></dd>
+  <dd>- <a href="https://www.datacamp.com/tutorial/tutorial-postgresql-python" target="_new">Using PostgreSQL in Python</a></dd>
   <dd>- <a href="https://m.youtube.com/watch?v=BbnDmeNojFA" target="_new">Video</a> sobre lógica, portas lógicas e funcionamento de tabela verdade</dd>
   <dd>- <a href="https://learn.microsoft.com/en-us/windows/package-manager/winget/" target="_new">winget - Windows Package Manager (instalação e atualização em linha de comando)</a></dd>
   <dd>- <a href="https://github.com/microsoft/winget-pkgs/" target="_new">winget - Windows Package Manager (repositorio com lista de pacotes disponíveis)</a></dd>
