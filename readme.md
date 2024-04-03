@@ -80,6 +80,7 @@ Materiais das disciplinas
   <dd>- <a href="https://www.mingw-w64.org" target="_new">Documentação do MinGW</a></dd>
   <dd>- <a href="https://docs.python.org/3/" target="_new">Documentação do Python3</a></dd>
   <dd>- <a href="https://www.python.org/downloads/" target="_new">Download do Python3</a> (v.3.11.3 no LinuxMint/ v.3.8.x no Windows)</dd>
+  <dd>- <a href="https://www.alura.com.br/artigos/o-que-e-git-github" target="_new">O que é Git e GitHub?</a></dd>
   <dd>- <a href="https://osdn.net/projects/mingw/" target="_new">Repositório do minGW para Windows</a></dd>
   <dd>- <a href="https://quickref.me/c.html" target="_new">Resumo Linguagem C / Guia de referência rápida</a></dd>
   <dd>- <a href="https://quickref.me/markdown.html" target="_new">Resumo Linguagem Markdown / Guia de referência rápida</a></dd>
