@@ -67,6 +67,7 @@ Materiais das disciplinas
 </dl>
 <dl>
   <dt>Materiais complementares, tutoriais e vídeos sugeridos:</dt>
+  <dd>- <a href="https://www.youtube.com/watch?v=c90uY0a1bWY&list=PLZbE2P-mybWQMzuf9N5aDd5gIbZdWHaaz" target="_new">Python RAD playlist</a></dd>
   <dd>- <a href="https://replit.com/" target="_new">Ambiente de programação web (no navegador) para diversas linguagens de programação</a></dd>
   <dd>- <a href="https://code.visualstudio.com/docs/cpp/config-mingw" target="_new">Como instalar e configurar o VS Code para C/C++</a></dd>
   <dd>- <a href="https://hub.asimov.academy/blog/como-instalar-e-configurar-o-vscode/" target="_new">Como instalar e configurar o VS Code para Python</a></dd>
