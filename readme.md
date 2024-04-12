@@ -96,6 +96,7 @@ Materiais das disciplinas
   <dd>- <a href="https://www.marticliment.com/wingetui/" target="_new">wingetUI - Interface para o Windows Package Manager</a></dd>
   <dd>- <a href="https://github.com/marticliment/WingetUI" target="_new">wingetUI - Interface para o Windows Package Manager (SRC)</a></dd>
   <dd>- <a href="https://winstall.app" target="_new">Winstall - Interface para o winget</a></dd>
+  <dd>- <a href="https://kinsta.com/blog/mariadb-vs-postgresql/" target="_new">Artigo: MariaDB vs PostgreSQL: 14 Critical Differences</a></dd>
 
   
 </dl>
