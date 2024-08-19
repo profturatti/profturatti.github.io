@@ -63,17 +63,15 @@ Materiais das disciplinas
 <dl>
   <dt>Prezado estudante, seja bem-vindo!</dt>
   <dd><a href="https://forms.gle/SvUrnLnTxXjrH7XLA">Formulário para apresentação do aluno ao professor</dd>
-  <dd><a href="">Formulário sobre participação da aula</dd>
-</dl>
+  <dd><a href="https://forms.gle/zraJsHqCxexJd5X88">Formulário sobre participação da aula</dd>
 
-<dl>
   <dt>Disciplinas 2024.2:</dt>
   <dd>- <a href="https://github.com/profturatti/android" target="_new">Android</a></dd>
   <dd>- <a href="https://github.com/profturatti/python" target="_new">Python</a></dd>
+
+  <dt>Materiais Complementares</dt>
+  <dd><a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new">Acesse AQUI</a>a></dd>
 </dl>
-
-<br>[Materiais complementares](https://github.com/profturatti/materiais/blob/main/README.md)
-
 <!--  
 <iframe
   name="iframe_a"
