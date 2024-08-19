@@ -70,7 +70,7 @@ Materiais das disciplinas
   <dd>- <a href="https://github.com/profturatti/python" target="_new">Python</a></dd>
 
   <dt>Materiais Complementares</dt>
-  <dd><a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new">Acesse AQUI</a>a></dd>
+  <dd><a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new">Acesse AQUI</a></dd>
 </dl>
 <!--  
 <iframe
