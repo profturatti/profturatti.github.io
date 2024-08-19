@@ -60,15 +60,15 @@ Materiais das disciplinas
 <p>Gostou desse conjunto de ícones? Você também pode relacionar as tecnologias que utiliza e trabalha. 
 <br>Veja o código fonte desta página e consulte os ícones disponíveis <a href="https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list" target="_new">aqui</a>.
 
-<p><b>Prezado estudante, seja bem-vindo!</b></p>
+<p><b>Prezado estudante, seja bem-vindo!</b>
   <br><a href="https://forms.gle/SvUrnLnTxXjrH7XLA">Formulário para apresentação do aluno ao professor
   <br><a href="https://forms.gle/zraJsHqCxexJd5X88">Formulário sobre participação da aula
-
-  <p><b>Disciplinas 2024.2:</b></p>
+</p>
+  <p><b>Disciplinas 2024.2:</b>
   <br><a href="https://github.com/profturatti/android" target="_new">Android</a>
   <br><a href="https://github.com/profturatti/python" target="_new">Python</a>
-
-  <p><b>Materiais Complementares:</b><a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new">AQUI</a></p>
+</p>
+  <p><b>Materiais Complementares: </b><a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new"> AQUI</a></p>
 
 <!--  
 <iframe
