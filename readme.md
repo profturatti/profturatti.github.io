@@ -38,9 +38,7 @@ body {
   background-color: black;
   color: white;
 }
-.fontRed {
-  font-color: 'red'
-}
+
 </style>
 
 <body>
@@ -65,9 +63,9 @@ Materiais das disciplinas
 
 <p><b>Prezado estudante, seja bem-vindo!</b>
   <br><a href="./calendario2024s2.pdf" target="_new">Calendário Acadêmico 2024.2</a>
-  <br><a href="https://forms.gle/SvUrnLnTxXjrH7XLA" target="_new">Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez) <div class='fontRed'>Até 23/08</div>
+  <br><a href="https://forms.gle/SvUrnLnTxXjrH7XLA" target="_new">Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez) <span style="font-color: 'red'">Até 23/08</span>
   <br><a href="https://forms.gle/zraJsHqCxexJd5X88" target="_new">Formulário sobre participação da aula</a> (preencher ao final de cada aula)
-  <br><a href="https://forms.gle/J8uEFD8UpKWuAyoM7" target="_new">Formulário para grupo Android</a> (equipe para trabalho semestral) <div class='fontRed'>Até 30/08</div>
+  <br><a href="https://forms.gle/J8uEFD8UpKWuAyoM7" target="_new">Formulário para grupo Android</a> (equipe para trabalho semestral) Até 30/08
 </p>
 
 <p><b>Disciplinas 2024.2:</b> 
