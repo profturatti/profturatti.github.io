@@ -61,9 +61,10 @@ Materiais das disciplinas
 <br>Veja o código fonte desta página e consulte os ícones disponíveis <a href="https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list" target="_new">aqui</a>.
 
 <p><b>Prezado estudante, seja bem-vindo!</b>
-  <br><a href="https://forms.gle/SvUrnLnTxXjrH7XLA">Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez)
-  <br><a href="https://forms.gle/zraJsHqCxexJd5X88">Formulário sobre participação da aula</a> (preencher ao final de cada aula)
-  <br><a href="https://forms.gle/J8uEFD8UpKWuAyoM7">Formulário para grupo Android</a> (equipe para trabalho semestral)
+  <br><a href="./calendario2024s2.pdf" target="_new">Calendário Acadêmico 2024.2</a>
+  <br><a href="https://forms.gle/SvUrnLnTxXjrH7XLA" target="_new">Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez)
+  <br><a href="https://forms.gle/zraJsHqCxexJd5X88" target="_new">Formulário sobre participação da aula</a> (preencher ao final de cada aula)
+  <br><a href="https://forms.gle/J8uEFD8UpKWuAyoM7" target="_new">Formulário para grupo Android</a> (equipe para trabalho semestral)
 </p>
 
 <p><b>Disciplinas 2024.2:</b> 
