@@ -61,15 +61,17 @@ Materiais das disciplinas
 <br>Veja o código fonte desta página e consulte os ícones disponíveis <a href="https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list" target="_new">aqui</a>.
 
 <p><b>Prezado estudante, seja bem-vindo!</b>
-  <br><a href="https://forms.gle/SvUrnLnTxXjrH7XLA">Formulário para apresentação do aluno ao professor</a>
-  <br><a href="https://forms.gle/zraJsHqCxexJd5X88">Formulário sobre participação da aula</a>
+  <br><a href="https://forms.gle/SvUrnLnTxXjrH7XLA">Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez)
+  <br><a href="https://forms.gle/zraJsHqCxexJd5X88">Formulário sobre participação da aula</a> (preencher ao final de cada aula)
+  <br><a href="https://forms.gle/J8uEFD8UpKWuAyoM7">Formulário para grupo Android</a> (equipe para trabalho semestral)
 </p>
 
-<p><b>Disciplinas 2024.2:</b>
-  <br><a href="https://github.com/profturatti/android" target="_new">Android</a>
-  <br><a href="https://github.com/profturatti/python" target="_new">Python</a>
+<p><b>Disciplinas 2024.2:</b> 
+  <a href="https://github.com/profturatti/android" target="_new">Android</a> | 
+  <a href="https://github.com/profturatti/python" target="_new">Python</a>
 </p>
-  <p><b>Materiais Complementares: </b><a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new"> AQUI</a></p>
+
+<p><b>Materiais Complementares: </b><a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new"> AQUI</a></p>
 
 <!--  
 <iframe
