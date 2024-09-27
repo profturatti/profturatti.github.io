@@ -54,8 +54,9 @@ Materiais das disciplinas
 -->
 </div>
 <p>
+<!--  
 <p>Mude o modo de cores desta página para <button onclick="fncColorMode()">claro/escuro</button>
-
+-->
 <h3> 🛠 Sistemas, Linguagens e ferramentas</h3>
 <p><img src="https://skillicons.dev/icons?i=linux,windows,apple,raspberrypi,arduino,powershell,vscode,git,github,gitlab,docker,kubernetes,c,cpp,py,php,js,nodejs,react,ts,html,css,mysql,postgresql,graphql,angular,nestjs,nextjs,prisma,jest&perline=12"></p>
 <p>Gostou desse conjunto de ícones? Você também pode relacionar as tecnologias que utiliza e trabalha. 
@@ -64,7 +65,7 @@ Materiais das disciplinas
 <p><b>Prezado estudante, seja bem-vindo!</b>
   <br><a href="./calendario2024s2.pdf" target="_new">Calendário Acadêmico 2024.2</a>
  <!-- <br><a href="https://forms.gle/SvUrnLnTxXjrH7XLA" target="_new">Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez) <span style="color: red;">Até 23/08</span> -->
-  <br><a href="https://forms.gle/J8uEFD8UpKWuAyoM7" target="_new">Formulário para grupo Android</a> (equipe para trabalho semestral) <span style="color: red;">Até 30/08</span>
+ <!-- <br><a href="https://forms.gle/J8uEFD8UpKWuAyoM7" target="_new">Formulário para grupo Android</a> (equipe para trabalho semestral) <span style="color: red;">Até 30/08</span> -->
   <br><a href="https://forms.gle/zraJsHqCxexJd5X88" target="_new">Formulário sobre participação da aula</a> (preencher ao final de cada aula)
   
 </p>
