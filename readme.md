@@ -63,14 +63,15 @@ Materiais das disciplinas
 <br>Veja o código fonte desta página e consulte os ícones disponíveis <a href="https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list" target="_new">aqui</a>.
 -->
 <p><b>Prezado estudante, seja bem-vindo!</b>
-  <br><a href="./calendario2024s2.pdf" target="_new">Calendário Acadêmico 2024.2</a>
+  
  <!-- <br><a href="https://forms.gle/SvUrnLnTxXjrH7XLA" target="_new">Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez) <span style="color: red;">Até 23/08</span> -->
  <!-- <br><a href="https://forms.gle/J8uEFD8UpKWuAyoM7" target="_new">Formulário para grupo Android</a> (equipe para trabalho semestral) <span style="color: red;">Até 30/08</span> -->
-  <br><a href="https://forms.gle/zraJsHqCxexJd5X88" target="_new">Formulário sobre participação da aula</a> (preencher ao final de cada aula)
+  <p><a href="https://forms.gle/zraJsHqCxexJd5X88" target="_new">Formulário sobre participação da aula</a> (preencher ao final de cada aula)
   
 </p>
 
-<p><b>Disciplinas 2024.2:</b> 
+<p><b>Disciplinas 2024.2:</b>
+  <a href="./calendario2024s2.pdf" target="_new">Calendário Acadêmico</a> | 
   <a href="https://github.com/profturatti/android" target="_new">Android</a> | 
   <a href="https://github.com/profturatti/python" target="_new">Python</a>
 </p>
