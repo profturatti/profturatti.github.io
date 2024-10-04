@@ -56,12 +56,12 @@ Materiais das disciplinas
 <p>
 <!--  
 <p>Mude o modo de cores desta página para <button onclick="fncColorMode()">claro/escuro</button>
--->
+
 <h3> 🛠 Sistemas, Linguagens e ferramentas</h3>
 <p><img src="https://skillicons.dev/icons?i=linux,windows,apple,raspberrypi,arduino,powershell,vscode,git,github,gitlab,docker,kubernetes,c,cpp,py,php,js,nodejs,react,ts,html,css,mysql,postgresql,graphql,angular,nestjs,nextjs,prisma,jest&perline=12"></p>
 <p>Gostou desse conjunto de ícones? Você também pode relacionar as tecnologias que utiliza e trabalha. 
 <br>Veja o código fonte desta página e consulte os ícones disponíveis <a href="https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list" target="_new">aqui</a>.
-
+-->
 <p><b>Prezado estudante, seja bem-vindo!</b>
   <br><a href="./calendario2024s2.pdf" target="_new">Calendário Acadêmico 2024.2</a>
  <!-- <br><a href="https://forms.gle/SvUrnLnTxXjrH7XLA" target="_new">Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez) <span style="color: red;">Até 23/08</span> -->
