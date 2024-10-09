@@ -66,8 +66,10 @@ Materiais das disciplinas
   
  <!-- <br><a href="https://forms.gle/SvUrnLnTxXjrH7XLA" target="_new">Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez) <span style="color: red;">Até 23/08</span> -->
  <!-- <br><a href="https://forms.gle/J8uEFD8UpKWuAyoM7" target="_new">Formulário para grupo Android</a> (equipe para trabalho semestral) <span style="color: red;">Até 30/08</span> -->
+ <!-- Formulario para preenchimento de cada aula
   <p><a href="https://forms.gle/zraJsHqCxexJd5X88" target="_new">Formulário sobre participação da aula</a> (preencher ao final de cada aula)
-  
+-->
+  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSd0jhk41GzVzHYV5mtX3MdDCaDIgavgN04YB6oIpQXj-K30lg/viewform?usp=sf_link">Apresentação Disciplina Android - Extensionista</p>
 </p>
 
 <p><b>Disciplinas 2024.2:</b>
