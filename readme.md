@@ -71,8 +71,9 @@ Materiais das disciplinas
   <p><a href="https://forms.gle/zraJsHqCxexJd5X88" target="_new">Formulário sobre participação da aula</a> (preencher ao final de cada aula)
 
 <!--
-  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSd0jhk41GzVzHYV5mtX3MdDCaDIgavgN04YB6oIpQXj-K30lg/viewform?usp=sf_link">Apresentação Disciplina Android - Extensionista</a></p>
+  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSd0jhk41GzVzHYV5mtX3MdDCaDIgavgN04YB6oIpQXj-K30lg/viewform?usp=sf_link">Apresentação Disciplina Android - Extensionista</a> <span style="color: red;">Até 21/10/2024 (segunda-feira)</span> </p>
 -->
+<p><a href="https://github.com/profturatti/android/tree/main/modelos">Android - Primeira entrega do projeto</a></p>
 
 <p><b>Disciplinas 2024.2:</b>
   <a href="./calendario2024s2.pdf" target="_new">Calendário Acadêmico</a> | 
