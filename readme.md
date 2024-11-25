@@ -67,22 +67,28 @@ Materiais das disciplinas
  <!-- <br><a href="https://forms.gle/SvUrnLnTxXjrH7XLA" target="_new">Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez) <span style="color: red;">Até 23/08</span> -->
  <!-- <br><a href="https://forms.gle/J8uEFD8UpKWuAyoM7" target="_new">Formulário para grupo Android</a> (equipe para trabalho semestral) <span style="color: red;">Até 30/08</span> -->
  
- <!-- Formulario para preenchimento de cada aula -->
+ <!-- Formulario para preenchimento de cada aula
   <p><a href="https://forms.gle/zraJsHqCxexJd5X88" target="_new">Formulário sobre participação da aula</a> (preencher ao final de cada aula)
-
+-->
 <!--
   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSd0jhk41GzVzHYV5mtX3MdDCaDIgavgN04YB6oIpQXj-K30lg/viewform?usp=sf_link">Apresentação Disciplina Android - Extensionista</a>  </p>
--->
+
 <p><a href="https://github.com/profturatti/android/tree/main/modelos">Android - Primeira entrega do projeto</a> <span style="color: red;">Até 21/10/2024 (segunda-feira)</span> </p>
+-->
 
 <p><b>Disciplinas 2024.2:</b>
-  <a href="./calendario2024s2.pdf" target="_new">Calendário Acadêmico</a> | 
+  <a href="./calendario2024s2.pdf" target="_new">Calendário Acadêmico</a>
+<!--   
   <a href="https://github.com/profturatti/android" target="_new">Android</a> | 
   <a href="https://github.com/profturatti/python" target="_new">Python</a>
+-->
 </p>
 
 <p><b>Materiais Complementares: </b><a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new"> AQUI</a></p>
 
+<p><b>Entrega da versão final do projeto da disciplina Android</b><span style="color: red;">Até 26/11/2024 (terça-feira)</span></p>
+<p><b>Apresentação da versão final do projeto da disciplina Android</b><span style="color: red;">Até 27/11/2024 (Quarta-feira)</span></p>
+<p><b>A apresentação do projeto final da disciplina Android é obrigatória aos grupos que não efetuaram a entrega do video</b></p>
 <!--  
 <iframe
   name="iframe_a"
