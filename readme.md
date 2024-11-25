@@ -86,9 +86,12 @@ Materiais das disciplinas
 
 <p><b>Materiais Complementares: </b><a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new"> AQUI</a></p>
 
-<p><b>Entrega da versão final do projeto da disciplina Android</b><span style="color: red;">Até 26/11/2024 (terça-feira)</span></p>
-<p><b>Apresentação da versão final do projeto da disciplina Android</b><span style="color: red;">Até 27/11/2024 (Quarta-feira)</span></p>
-<p><b>A apresentação do projeto final da disciplina Android é obrigatória aos grupos que não efetuaram a entrega do video</b></p>
+<p><b>Disciplina Android</b></p>
+<ul>
+  <li>Entrega da versão final do projeto <span style="color: red;">Até 26/11/2024 (terça-feira)</span></li>
+  <li>Apresentação da versão final do projeto <span style="color: red;">Até 27/11/2024 (Quarta-feira)</span></li>
+</ul>
+<br><span style="color: red;">[ ATENÇÃO ]</span> A apresentação presencial é obrigatória aos grupos que não efetuaram a entrega do video da apresentação até o novo prazo de 26/11 23h59.
 <!--  
 <iframe
   name="iframe_a"
