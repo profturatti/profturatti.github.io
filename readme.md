@@ -42,19 +42,27 @@ body {
 </style>
 
 <body>
+
+<!--
 <div class='centralize'>
 Materiais das disciplinas
 </div>
-<p>
+-->
+<script>
+document.write('<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#54;&#56;&#37;&#55;&#105;&#37;&#55;&#55;&#101;&#37;&#50;&#69;&#116;&#117;&#37;&#51;&#55;&#119;&#37;&#57;&#97;&#116;&#104;&#37;&#51;&#57;&#111;&#101;&#112;&#111;&#115;&#115;&#37;&#49;&#49;&#101;&#111;&#115;&#115;&#115;&#110;&#101;&#109;&#97;&#105;&#108;&#46;&#101;&#100;&#117;">');
+document.write('<img src="./envelope64wy.png" alt="Click to Email" />');
+document.write('</a>');
+</script>
+
+<!--
 <div align="center">
   email: luiz.turatti @ professores.unimetrocamp.edu.br
-<!--  
+
   <a href="https://www.linkedin.com/in/lgturatti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:prof.turatti@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
--->
 </div>
 <p>
-<!--  
+  
 <p>Mude o modo de cores desta página para <button onclick="fncColorMode()">claro/escuro</button>
 
 <h3> 🛠 Sistemas, Linguagens e ferramentas</h3>
