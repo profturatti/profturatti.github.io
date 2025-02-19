@@ -76,6 +76,7 @@ Materiais das disciplinas
 
 <p><a href="https://github.com/profturatti/android/tree/main/modelos">Android - Primeira entrega do projeto</a> <span style="color: red;">Até 21/10/2024 (segunda-feira)</span> </p>
 -->
+<br>
 
 <p><b>Disciplinas 2025.1:</b>
   <a href="./calendario2025s1.pdf" target="_new">Calendário Acadêmico</a> | 
