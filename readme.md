@@ -63,9 +63,12 @@ Materiais das disciplinas
 <br>Veja o código fonte desta página e consulte os ícones disponíveis <a href="https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list" target="_new">aqui</a>.
 -->
 <p><b>Prezado estudante, seja bem-vindo!</b>
-  
- <!-- <br><a href="https://forms.gle/SvUrnLnTxXjrH7XLA" target="_new">Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez) <span style="color: red;">Até 23/08</span> -->
- <!-- <br><a href="https://forms.gle/J8uEFD8UpKWuAyoM7" target="_new">Formulário para grupo Android</a> (equipe para trabalho semestral) <span style="color: red;">Até 30/08</span> -->
+
+<br><strong>Formulários de preenchimento obrigatório</strong>
+
+<br>1. <a href="https://forms.gle/SvUrnLnTxXjrH7XLA" target="_new">Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez) <span style="color: red;">Até 28/02/2025</span>
+
+<br>2. <a href="https://forms.gle/J8uEFD8UpKWuAyoM7" target="_new">Formulário para grupos da disciplina Android</a> (equipe para trabalho semestral) <span style="color: red;">Até 28/02/2025</span>
  
  <!-- Formulario para preenchimento de cada aula
   <p><a href="https://forms.gle/zraJsHqCxexJd5X88" target="_new">Formulário sobre participação da aula</a> (preencher ao final de cada aula)
@@ -76,22 +79,22 @@ Materiais das disciplinas
 <p><a href="https://github.com/profturatti/android/tree/main/modelos">Android - Primeira entrega do projeto</a> <span style="color: red;">Até 21/10/2024 (segunda-feira)</span> </p>
 -->
 
-<p><b>Disciplinas 2024.2:</b>
-  <a href="./calendario2024s2.pdf" target="_new">Calendário Acadêmico</a>
-<!--   
+<p><b>Disciplinas 2025.1:</b>
+  <a href="./calendario2025s1.pdf" target="_new">Calendário Acadêmico</a> 
   <a href="https://github.com/profturatti/android" target="_new">Android</a> | 
-  <a href="https://github.com/profturatti/python" target="_new">Python</a>
--->
+  <a href="https://github.com/profturatti/pythonRAD" target="_new">Python RAD</a>
 </p>
 
 <p><b>Materiais Complementares: </b><a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new"> AQUI</a></p>
 
+<!--
 <p><b>Disciplina Android</b></p>
 <ul>
   <li>Entrega da versão final do projeto <span style="color: red;">Até 26/11/2024 (terça-feira)</span></li>
   <li>Apresentação da versão final do projeto <span style="color: red;">Até 27/11/2024 (Quarta-feira)</span></li>
 </ul>
 <br><span style="color: red;">[ ATENÇÃO ]</span> A apresentação presencial é obrigatória aos grupos que não efetuaram a entrega do video da apresentação até o novo prazo de 26/11 23h59.
+-->
 <!--  
 <iframe
   name="iframe_a"
