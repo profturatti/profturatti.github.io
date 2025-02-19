@@ -64,7 +64,7 @@ Materiais das disciplinas
 -->
 <p><b>Prezado estudante, seja bem-vindo!</b></p>
 
-<p><b>Formulários de preenchimento obrigatório</b></p>
+<br><b>Formulários de preenchimento obrigatório</b>
 <br>1. <a href="https://forms.gle/SvUrnLnTxXjrH7XLA" target="_new">Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez) <span style="color: red;">Até 28/02/2025</span>
 <br>2. <a href="https://forms.gle/J8uEFD8UpKWuAyoM7" target="_new">Formulário para grupos da disciplina Android</a> (equipe para trabalho semestral) <span style="color: red;">Até 28/02/2025</span>
  
