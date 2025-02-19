@@ -48,7 +48,7 @@ body {
 Materiais das disciplinas
 </div>
 -->
-<a href='&#109;ailto&#58;lu%69z&#46;%74&#37;75&#114;&#97;tt&#37;69&#64;pro&#37;&#54;6es&#115;%6Fres&#46;&#117;n&#105;m&#101;tr%6Fc%61mp%2Eedu&#46;br'>lu&#105;z&#46;turatti&#64;professores&#46;u&#110;imetroca&#109;&#112;&#46;&#101;du&#46;br<img src="envelope64wy.png"/></a>
+<a href='&#109;ailto&#58;luiz&#46;tu&#114;&#97;tti&#64;profes&#115;ores&#46;&#117;n&#105;m&#101;trocamp&#46;edu&#46;br'><img src="envelope64wy.png"/></a>
 
 <!--
 <div align="center">
