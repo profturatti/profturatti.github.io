@@ -62,12 +62,10 @@ Materiais das disciplinas
 <p>Gostou desse conjunto de ícones? Você também pode relacionar as tecnologias que utiliza e trabalha. 
 <br>Veja o código fonte desta página e consulte os ícones disponíveis <a href="https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list" target="_new">aqui</a>.
 -->
-<p><b>Prezado estudante, seja bem-vindo!</b>
+<p><b>Prezado estudante, seja bem-vindo!</b></p>
 
-<br><strong>Formulários de preenchimento obrigatório</strong>
-
+<p><b>Formulários de preenchimento obrigatório</b></p>
 <br>1. <a href="https://forms.gle/SvUrnLnTxXjrH7XLA" target="_new">Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez) <span style="color: red;">Até 28/02/2025</span>
-
 <br>2. <a href="https://forms.gle/J8uEFD8UpKWuAyoM7" target="_new">Formulário para grupos da disciplina Android</a> (equipe para trabalho semestral) <span style="color: red;">Até 28/02/2025</span>
  
  <!-- Formulario para preenchimento de cada aula
@@ -80,12 +78,11 @@ Materiais das disciplinas
 -->
 
 <p><b>Disciplinas 2025.1:</b>
-  <a href="./calendario2025s1.pdf" target="_new">Calendário Acadêmico</a> 
+  <a href="./calendario2025s1.pdf" target="_new">Calendário Acadêmico</a> | 
   <a href="https://github.com/profturatti/android" target="_new">Android</a> | 
   <a href="https://github.com/profturatti/pythonRAD" target="_new">Python RAD</a>
 </p>
-
-<p><b>Materiais Complementares: </b><a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new"> AQUI</a></p>
+<br><b>Materiais Complementares:</b><a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new"> acesse AQUI</a></p>
 
 <!--
 <p><b>Disciplina Android</b></p>
