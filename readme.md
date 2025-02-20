@@ -39,7 +39,7 @@ body {
   color: white;
 }
 table {
-  border: 0,
+  border: none,
   width: 100%;
   border-collapse: collapse;
   table-layout: fixed;
@@ -49,7 +49,6 @@ td {
   padding: 4px;
   width: 14.28%;
 }
-
 
 </style>
 
@@ -64,13 +63,13 @@ td {
             </a>
         </td>
         <td><!-- 2 -->
-            <a href='&#109;ailto&#58;luiz&#46;tu&#114;&#97;tti&#64;profes&#115;ores&#46;&#117;n&#105;m&#101;trocamp&#46;edu&#46;br'>
+            <a href="&#109;ailto&#58;luiz&#46;tu&#114;&#97;tti&#64;profes&#115;ores&#46;&#117;n&#105;m&#101;trocamp&#46;edu&#46;br" target="_new">
               <img src="envelope64wy.png"/>
               <br>E-mail<br>Wyden
             </a>
         </td>
         <td><!-- 3 -->
-            <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;pr&#111;&#102;&#46;t&#117;&#114;&#97;tti&#64;&#103;mail&#46;c&#111;m">
+            <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;pr&#111;&#102;&#46;t&#117;&#114;&#97;tti&#64;&#103;mail&#46;c&#111;m" target="_new">
               <img src="envelope64gmail.png">
               <br>E-mail<br>GMail
             </a>
@@ -82,8 +81,10 @@ td {
             </a>
         </td>
         <td><!-- 5 -->
-            <img src="checklist64.png">
-            <br>Frequência<br>na aula
+            <a href="https://forms.gle/fCiagxrVp2bRp8K28" target="_new">
+              <img src="checklist64.png">
+              <br>Frequência<br>na aula
+            </a>
         </td>
         <td><!-- 6 -->
             <a href="https://forms.gle/c135Z5mdV9Hh8znT6" target="_new">
@@ -110,7 +111,7 @@ td {
 <fieldset>
 <legend><b>&nbsp;Mural de avisos&nbsp;</b></legend>
   <br><b>Formulários de preenchimento obrigatório</b>
-  <br>1. Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez) <span style="color: red;">Até 28/02/2025</span>
-  <br>2. Formulário para indicação dos grupos de trabalho nas disciplinas (equipe para trabalho semestral) <span style="color: red;">Até 28/02/2025</span>
-  <br>3. <span style="color: red;">Em breve</span> o acesso ao formulário de frequência será liberado
+  <br>1. <span style="color: red;">Até 28/02/2025</span> Formulário para apresentação do aluno ao professor: <b>Conhecendo o aluno</b> (preencher somente uma vez) 
+  <br>2. <span style="color: red;">Até 28/02/2025</span> Formulário para indicação dos <b>grupos de projeto</b> nas disciplinas (equipe para trabalho semestral) 
+  <br>3. <span style="color: red;">Preencher a cada aula</span> o Formulário de <b>frequência na aula</b>
 </fieldset>
