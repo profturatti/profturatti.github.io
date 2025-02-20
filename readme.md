@@ -39,14 +39,15 @@ body {
   color: white;
 }
 table {
-  border: 0px;
+  border: none;
   border-collapse: collapse;
   table-layout: fixed;
   width: 100%;
 }
 td {
-  text-align: center;
+  border: none;
   padding: 4px;
+  text-align: center;
   width: 14.28%;
 }
 
@@ -94,7 +95,7 @@ td {
         </td>
         <td><!-- 7 -->
             <a href="https://forms.gle/QftrBCRmaoW3EWPo9" target="_new">
-              <img src="grupo64g.png">
+              <img src="grupo64c.png">
               <br>Grupos de<br>Projetos
             </a>
         </td>
