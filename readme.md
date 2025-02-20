@@ -39,6 +39,7 @@ body {
   color: white;
 }
 table {
+  border: 0,
   width: 100%;
   border-collapse: collapse;
 }
@@ -83,87 +84,34 @@ img {
         </td>
         <td><!-- 5 -->
             <img src="checklist64.png">
-            <br>Frequência
+            <br>Frequência<br>na aula
         </td>
         <td><!-- 6 -->
-            <img src="apresentacao64.png">
-            <br>Conhecendo<br>o aluno
+            <a href="https://forms.gle/c135Z5mdV9Hh8znT6" target="_new">
+              <img src="apresentacao64.png">
+              <br>Conhecendo<br>o aluno
+            </a>
         </td>
         <td><!-- 7 -->
-            <img src="grupo64g.png">
-            <br>Grupos de<br>Projetos
+            <a href="https://forms.gle/QftrBCRmaoW3EWPo9" target="_new">
+              <img src="grupo64g.png">
+              <br>Grupos de<br>Projetos
+            </a>
         </td>
     </tr>
 </table>
 
-
-<!--
-<div class='centralize'>
-Materiais das disciplinas
-</div>
--->
-
-
-<!--
-<div align="center">
-  email: luiz.turatti @ professores.unimetrocamp.edu.br
-</div>
-  
-<p>Mude o modo de cores desta página para <button onclick="fncColorMode()">claro/escuro</button>
-
-<h3> 🛠 Sistemas, Linguagens e ferramentas</h3>
-<p><img src="https://skillicons.dev/icons?i=linux,windows,apple,raspberrypi,arduino,powershell,vscode,git,github,gitlab,docker,kubernetes,c,cpp,py,php,js,nodejs,react,ts,html,css,mysql,postgresql,graphql,angular,nestjs,nextjs,prisma,jest&perline=12"></p>
-<p>Gostou desse conjunto de ícones? Você também pode relacionar as tecnologias que utiliza e trabalha. 
-<br>Veja o código fonte desta página e consulte os ícones disponíveis <a href="https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list" target="_new">aqui</a>.
--->
 <p><b>Prezado estudante, seja bem-vindo!</b></p>
 
-<fieldset>
-<legend> Mural de avisos </legend>
-  <br><b>Formulários de preenchimento obrigatório</b>
-  <br>1. <a href="https://forms.gle/c135Z5mdV9Hh8znT6" target="_new">Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez) <span style="color: red;">Até 28/02/2025</span>
-  <br>2. <a href="https://forms.gle/QftrBCRmaoW3EWPo9" target="_new">Formulário para grupos da disciplina Android</a> (equipe para trabalho semestral) <span style="color: red;">Até 28/02/2025</span>
-</fieldset>
- 
- <!-- Formulario para preenchimento de cada aula
-  <p><a href="https://forms.gle/zraJsHqCxexJd5X88" target="_new">Formulário sobre participação da aula</a> (preencher ao final de cada aula)
--->
-<!--
-  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSd0jhk41GzVzHYV5mtX3MdDCaDIgavgN04YB6oIpQXj-K30lg/viewform?usp=sf_link">Apresentação Disciplina Android - Extensionista</a>  </p>
-
-<p><a href="https://github.com/profturatti/android/tree/main/modelos">Android - Primeira entrega do projeto</a> <span style="color: red;">Até 21/10/2024 (segunda-feira)</span> </p>
--->
-<br>
-
-<p><b>Disciplinas 2025.1:</b>
-  <a href="./calendario2025s1.pdf" target="_new">Calendário Acadêmico</a> | 
+<p><b>Disciplinas 2025.1: </b>
   <a href="https://github.com/profturatti/android" target="_new">Android</a> | 
-  <a href="https://github.com/profturatti/pythonRAD" target="_new">Python RAD</a> | 
-  <a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new">Materiais Complementares</a>
+  <a href="https://github.com/profturatti/pythonRAD" target="_new">Python RAD</a> 
 </p>
-<!--
-<p><b>Disciplina Android</b></p>
-<ul>
-  <li>Entrega da versão final do projeto <span style="color: red;">Até 26/11/2024 (terça-feira)</span></li>
-  <li>Apresentação da versão final do projeto <span style="color: red;">Até 27/11/2024 (Quarta-feira)</span></li>
-</ul>
-<br><span style="color: red;">[ ATENÇÃO ]</span> A apresentação presencial é obrigatória aos grupos que não efetuaram a entrega do video da apresentação até o novo prazo de 26/11 23h59.
--->
-<!--  
-<iframe
-  name="iframe_a"
-  scrolling="no"
-  src="./welcome.html"
-  style="border-style: none;"
-  title="Titulo do iframe" 
-  height="768"
-  width="1024">
-</iframe>
--->
-<script>
-function fncColorMode() {
-   var element = document.body;
-   element.classList.toggle("dark-mode");
-}
-</script>
 
+<fieldset>
+<legend><b>&nbsp;Mural de avisos&nbsp;</b></legend>
+  <b>Formulários de preenchimento obrigatório</b>
+  <br>1. Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez) <span style="color: red;">Até 28/02/2025</span>
+  <br>2. Formulário para indicação dos grupos de trabalho nas disciplinas (equipe para trabalho semestral) <span style="color: red;">Até 28/02/2025</span>
+  <br><b>Em breve o acesso ao formulário de frequência será liberado</b>
+</fieldset>
