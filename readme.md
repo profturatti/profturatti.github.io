@@ -39,10 +39,10 @@ body {
   color: white;
 }
 table {
-  border: none,
-  width: 100%;
+  border: none;
   border-collapse: collapse;
   table-layout: fixed;
+  width: 100%;
 }
 td {
   text-align: center;
