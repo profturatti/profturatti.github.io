@@ -71,7 +71,7 @@ img {
         </td>
         <td><!-- 3 -->
             <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;pr&#111;&#102;&#46;t&#117;&#114;&#97;tti&#64;&#103;mail&#46;c&#111;m">
-              <img src="">
+              <img src="envelope64gmail.png">
               <br>E-mail<br>GMail
             </a>
         </td>
