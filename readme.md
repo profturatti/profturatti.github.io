@@ -38,17 +38,71 @@ body {
   background-color: black;
   color: white;
 }
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+td {
+  text-align: center;
+  padding: 10px;
+}
+img {
+  width: 50px;
+  height: 50px;
+}
 
 </style>
 
 <body>
+
+<table>
+    <tr>
+        <td><!-- 1 -->
+            <a href="calendario2025s1.pdf" target="_new">
+              <img src="calendario64.png">  
+              <br>Calendário<br>Acadêmico
+            </a>
+        </td>
+        <td><!-- 2 -->
+            <a href='&#109;ailto&#58;luiz&#46;tu&#114;&#97;tti&#64;profes&#115;ores&#46;&#117;n&#105;m&#101;trocamp&#46;edu&#46;br'>
+              <img src="envelope64wy.png"/>
+              <br>E-mail<br>Wyden
+            </a>
+        </td>
+        <td><!-- 3 -->
+            <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;pr&#111;&#102;&#46;t&#117;&#114;&#97;tti&#64;&#103;mail&#46;c&#111;m">
+              <img src="">
+              <br>E-mail<br>GMail
+            </a>
+        </td>
+        <td><!-- 4 -->
+            <a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new">
+              <img src="tutoriais64c.png">
+              <br>Materiais<br>Complementares
+            </a>
+        </td>
+        <td><!-- 5 -->
+            <img src="checklist64.png">
+            <br>Frequência
+        </td>
+        <td><!-- 6 -->
+            <img src="apresentacao64.png">
+            <br>Conhecendo<br>o aluno
+        </td>
+        <td><!-- 7 -->
+            <img src="grupo64g.png">
+            <br>Grupos de<br>Projetos
+        </td>
+    </tr>
+</table>
+
 
 <!--
 <div class='centralize'>
 Materiais das disciplinas
 </div>
 -->
-<a href='&#109;ailto&#58;luiz&#46;tu&#114;&#97;tti&#64;profes&#115;ores&#46;&#117;n&#105;m&#101;trocamp&#46;edu&#46;br'><img src="envelope64wy.png"/></a>
+
 
 <!--
 <div align="center">
