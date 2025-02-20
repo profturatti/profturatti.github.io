@@ -42,15 +42,14 @@ table {
   border: 0,
   width: 100%;
   border-collapse: collapse;
+  table-layout: fixed;
 }
 td {
   text-align: center;
-  padding: 10px;
+  padding: 4px;
+  width: 14.28%;
 }
-img {
-  width: 50px;
-  height: 50px;
-}
+
 
 </style>
 
@@ -59,7 +58,7 @@ img {
 <table>
     <tr>
         <td><!-- 1 -->
-            <a href="calendario2025s1.pdf" target="_new">
+            <a href="calendario25s1.pdf" target="_new">
               <img src="calendario64.png">  
               <br>Calendário<br>Acadêmico
             </a>
@@ -110,8 +109,8 @@ img {
 
 <fieldset>
 <legend><b>&nbsp;Mural de avisos&nbsp;</b></legend>
-  <b>Formulários de preenchimento obrigatório</b>
+  <br><b>Formulários de preenchimento obrigatório</b>
   <br>1. Formulário para apresentação do aluno ao professor</a> (preencher somente uma vez) <span style="color: red;">Até 28/02/2025</span>
   <br>2. Formulário para indicação dos grupos de trabalho nas disciplinas (equipe para trabalho semestral) <span style="color: red;">Até 28/02/2025</span>
-  <br><b>Em breve o acesso ao formulário de frequência será liberado</b>
+  <br>3. <span style="color: red;">Em breve</span> o acesso ao formulário de frequência será liberado
 </fieldset>
