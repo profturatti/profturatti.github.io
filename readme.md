@@ -88,16 +88,16 @@ td {
             </a>
         </td>
         <td><!-- 6 -->
-            <a href="https://forms.gle/c135Z5mdV9Hh8znT6" target="_new">
-              <img src="apresentacao64.png">
+            <!-- a href="https://forms.gle/c135Z5mdV9Hh8znT6" target="_new" -->
+              <img src="apresentacao64g.png">
               <br>Conhecendo<br>o aluno
-            </a>
+            
         </td>
         <td><!-- 7 -->
-            <a href="https://forms.gle/QftrBCRmaoW3EWPo9" target="_new">
-              <img src="grupo64c.png">
+            <!-- a href="https://forms.gle/QftrBCRmaoW3EWPo9" target="_new" -->
+              <img src="grupo64g.png">
               <br>Grupos de<br>Projetos
-            </a>
+            
         </td>
     </tr>
 </table>
@@ -112,7 +112,9 @@ td {
 <fieldset>
 <legend><b>&nbsp;Mural de avisos&nbsp;</b></legend>
   <br><b>Formulários de preenchimento obrigatório</b>
+  <br>1. <span style="color: red;">Preencher a cada aula</span> o Formulário de <b>frequência na aula</b>
+  <p><b>Histórico</b></p>
   <br>1. <span style="color: red;">Até 28/02/2025</span> Formulário para apresentação do aluno ao professor: <b>Conhecendo o aluno</b> (preencher somente uma vez) 
   <br>2. <span style="color: red;">Até 28/02/2025</span> Formulário para indicação dos <b>grupos de projeto</b> nas disciplinas (equipe para trabalho semestral) 
-  <br>3. <span style="color: red;">Preencher a cada aula</span> o Formulário de <b>frequência na aula</b>
+  
 </fieldset>
