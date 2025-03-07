@@ -111,9 +111,11 @@ td {
 
 <fieldset>
 <legend><b>&nbsp;Mural de avisos&nbsp;</b></legend>
-  <br><b>Formulários de preenchimento obrigatório</b>
+  
+  <b>Formulários de preenchimento obrigatório</b>
   <br>1. <span style="color: red;">Preencher a cada aula</span> o Formulário de <b>frequência na aula</b>
-  <p><b>Histórico</b></p>
+  
+  <b>Histórico</b>
   <br>1. <span style="color: red;">Até 28/02/2025</span> Formulário para apresentação do aluno ao professor: <b>Conhecendo o aluno</b> (preencher somente uma vez) 
   <br>2. <span style="color: red;">Até 28/02/2025</span> Formulário para indicação dos <b>grupos de projeto</b> nas disciplinas (equipe para trabalho semestral) 
   
