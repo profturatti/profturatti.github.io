@@ -91,13 +91,11 @@ td {
             <!-- a href="https://forms.gle/c135Z5mdV9Hh8znT6" target="_new" -->
               <img src="apresentacao64g.png">
               <br>Conhecendo<br>o aluno
-            
         </td>
         <td><!-- 7 -->
             <!-- a href="https://forms.gle/QftrBCRmaoW3EWPo9" target="_new" -->
               <img src="grupo64g.png">
               <br>Grupos de<br>Projetos
-            
         </td>
     </tr>
 </table>
@@ -115,7 +113,7 @@ td {
   <b>Formulários de preenchimento obrigatório</b>
   <br>1. <span style="color: red;">Preencher a cada aula</span> o Formulário de <b>frequência na aula</b>
   
-  <b>Histórico</b>
+  <br><b>Histórico</b>
   <br>1. <span style="color: red;">Até 28/02/2025</span> Formulário para apresentação do aluno ao professor: <b>Conhecendo o aluno</b> (preencher somente uma vez) 
   <br>2. <span style="color: red;">Até 28/02/2025</span> Formulário para indicação dos <b>grupos de projeto</b> nas disciplinas (equipe para trabalho semestral) 
   
