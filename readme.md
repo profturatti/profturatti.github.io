@@ -94,7 +94,7 @@ td {
         </td>
         <td><!-- 7 -->
             <a href="https://forms.gle/QftrBCRmaoW3EWPo9" target="_new">
-              <img src="grupo64.png">
+              <img src="grupo64c.png">
               <br>Grupos de<br>Projetos
             </a>
         </td>
