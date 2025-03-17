@@ -93,9 +93,10 @@ td {
               <br>Conhecendo<br>o aluno
         </td>
         <td><!-- 7 -->
-            <!-- a href="https://forms.gle/QftrBCRmaoW3EWPo9" target="_new" -->
-              <img src="grupo64g.png">
+            <a href="https://forms.gle/QftrBCRmaoW3EWPo9" target="_new">
+              <img src="grupo64.png">
               <br>Grupos de<br>Projetos
+            </a>
         </td>
     </tr>
 </table>
