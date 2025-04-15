@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>My Website</title>
+    <title>Prof.Turatti</title>
     <link rel="stylesheet" href="./style.css">
     <link rel="icon" href="./favicon.ico" type="image/x-icon">
 
@@ -43,7 +43,8 @@ body {
   padding: 8px;
   background-color: white;
   color: black;
-  font-size: 20px;
+  /* font-size: 20px; */
+  font-size: 5vw;  /* Font size will be 5% of the viewport width */
 }
 .dark-mode {
   background-color: black;
@@ -63,6 +64,7 @@ td {
 }
 img {
   max-width: 100%;
+  min-width: 24px;
   height: auto;
 }
 </style>
