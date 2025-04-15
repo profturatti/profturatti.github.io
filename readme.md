@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My Website</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+
+ 
 <style>
 .centralizeContent {
   display: -webkit-box;
@@ -50,9 +61,12 @@ td {
   text-align: center;
   width: 14.28%;
 }
-
+img {
+  max-width: 100%;
+  height: auto;
+}
 </style>
-
+  </head>
 <body>
 
 <table>
@@ -119,3 +133,5 @@ td {
   <br>2. <span style="color: red;">Até 28/02/2025</span> Formulário para indicação dos <b>grupos de projeto</b> nas disciplinas (equipe para trabalho semestral) 
   
 </fieldset>
+</body>
+</html>
