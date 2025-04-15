@@ -59,7 +59,7 @@ table {
 td {
   flex: 1;
   border: none;
-  font-size: clamp(14px, 4vw, 24px);
+  font-size: clamp(8px, 4vw, 16px);
   padding: 4px;
   text-align: center;
   /* width: 14.28%; */
