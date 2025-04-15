@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8">
@@ -51,16 +50,18 @@ body {
   color: white;
 }
 table {
+  display: flex;
   border: none;
   border-collapse: collapse;
   table-layout: fixed;
-  width: 100%;
+  /* width: 100%; */
 }
 td {
+  flex: 1;
   border: none;
   padding: 4px;
   text-align: center;
-  width: 14.28%;
+  /* width: 14.28%; */
 }
 img {
   max-width: 100%;
