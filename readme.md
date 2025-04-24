@@ -121,24 +121,25 @@ img {
 
 <p><b>Prezado estudante, seja bem-vindo!</b></p>
 
-<p><b>Acesse os conteúdos de sua disciplina 2025.1 através do nome da disciplina cursada: </b>
+<p><b>Acesse os conteúdos de 2025.1 através do nome da disciplina cursada: </b>
   <a href="https://github.com/profturatti/android" target="_new">Android</a> | 
   <a href="https://github.com/profturatti/pythonRAD" target="_new">Python RAD</a> 
 </p>
 
 <fieldset>
-<legend style="color:MediumBlue;"><b>&nbsp;Mural de avisos&nbsp;</b></legend>
-  <br><b>Formulários de preenchimento obrigatório</b>
-  <p><span style="color: red;">Preencher a cada aula</span> o Formulário de <b>frequência na aula</b> disponível no menu superior.
-
+<legend style="color:MediumBlue;"><b>&nbsp;MURAL DE AVISOS&nbsp;</b></legend>
+  <br>&nbsp;
+  <br><span style="color: red;"><b>PREENCHIMENTO OBRIGATORIO</b> a cada aula</span> do formulário de 
+      <a href="https://forms.gle/fCiagxrVp2bRp8K28" target="_new"><b>frequência na aula</b></a>.
+  <br>&nbsp;
   <br><b>Android Studio Cloud</b> (BETA) - Acessível através do navegador, em fase de testes
-  <p>Requer login do google no Firebase Studio, disponível 
-     <a href="https://studio.firebase.google.com/new/android-studio?hl=pt-br" target="_new">aqui</a></p>
-  
+  <br>Requer login do google no Firebase Studio, disponível 
+     <a href="https://studio.firebase.google.com/new/android-studio?hl=pt-br" target="_new">aqui</a>
+  <br>&nbsp;
   <br><b>Histórico</b>
   <br>1. <span style="color: red;">Até 28/02/2025</span> Formulário para apresentação do aluno ao professor: <b>Conhecendo o aluno</b> (preencher somente uma vez) 
-  <p>2. <span style="color: red;">Até 28/02/2025</span> Formulário para indicação dos <b>grupos de projeto</b> nas disciplinas (equipe para trabalho semestral)</p> 
-  
+  <br>2. <span style="color: red;">Até 28/02/2025</span> Formulário para indicação dos <b>grupos de projeto</b> nas disciplinas (equipe para trabalho semestral)
+  <br>&nbsp;
 </fieldset>
 </body>
 </html>
