@@ -128,13 +128,13 @@ img {
 
 <fieldset>
 <legend style="color:MediumBlue;"><b>&nbsp;MURAL DE AVISOS&nbsp;</b></legend>
+  <br><b>CHAMADA:</b><span style="color: red;"><b>PREENCHIMENTO OBRIGATORIO</b> a cada aula</span> do formulário de 
+      <a href="https://forms.gle/fCiagxrVp2bRp8K28" target="_new"><b>frequência na aula</b></a>. 
+  <br>Esta devolutiva é necessária mesmo se houver chamada nominal dos alunos. Obrigado!
   <br>&nbsp;
-  <br><span style="color: red;"><b>PREENCHIMENTO OBRIGATORIO</b> a cada aula</span> do formulário de 
-      <a href="https://forms.gle/fCiagxrVp2bRp8K28" target="_new"><b>frequência na aula</b></a>.
-  <br>&nbsp;
-  <br><b>Android Studio Cloud</b> (BETA) - Acessível através do navegador, em fase de testes
-  <br>Requer login do google no Firebase Studio, disponível 
-     <a href="https://studio.firebase.google.com/new/android-studio?hl=pt-br" target="_new">aqui</a>
+  <br><b>Android Studio Cloud</b> (BETA): Disponível 
+     <a href="https://studio.firebase.google.com/new/android-studio?hl=pt-br" target="_new">aqui</a>.
+     Requer login de uma conta do Google.
   <br>&nbsp;
   <br><b>Histórico</b>
   <br>1. <span style="color: red;">Até 28/02/2025</span> Formulário para apresentação do aluno ao professor: <b>Conhecendo o aluno</b> (preencher somente uma vez) 
