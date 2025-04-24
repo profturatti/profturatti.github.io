@@ -127,18 +127,17 @@ img {
 </p>
 
 <fieldset>
-<legend><b>&nbsp;Mural de avisos&nbsp;</b></legend>
-  
-  <br><b>Formulários de preenchimento obrigatório</b></br>
+<legend style="color:MediumBlue;"><b>&nbsp;Mural de avisos&nbsp;</b></legend>
+  <br><b>Formulários de preenchimento obrigatório</b>
   <p><span style="color: red;">Preencher a cada aula</span> o Formulário de <b>frequência na aula</b> disponível no menu superior.
 
-  <br><b>Android Studio Cloud</b> (BETA) - Acessível através do navegador, em fase de testes</br>
+  <br><b>Android Studio Cloud</b> (BETA) - Acessível através do navegador, em fase de testes
   <p>Requer login do google no Firebase Studio, disponível 
      <a href="https://studio.firebase.google.com/new/android-studio?hl=pt-br" target="_new">aqui</a></p>
   
-  <br><b>Histórico</b></br>
+  <br><b>Histórico</b>
   <br>1. <span style="color: red;">Até 28/02/2025</span> Formulário para apresentação do aluno ao professor: <b>Conhecendo o aluno</b> (preencher somente uma vez) 
-  <p>2. <span style="color: red;">Até 28/02/2025</span> Formulário para indicação dos <b>grupos de projeto</b> nas disciplinas (equipe para trabalho semestral) 
+  <p>2. <span style="color: red;">Até 28/02/2025</span> Formulário para indicação dos <b>grupos de projeto</b> nas disciplinas (equipe para trabalho semestral)</p> 
   
 </fieldset>
 </body>
