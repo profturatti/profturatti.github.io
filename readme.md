@@ -69,6 +69,20 @@ img {
   min-width: 24px;
   height: auto;
 }
+<!-- blink image -->
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+.piscar {
+    animation: blink 1s infinite;
+    /* Inclui suporte para navegadores antigos, se necessário */
+    -webkit-animation: blink 1s infinite;
+    -moz-animation: blink 1s infinite;
+    -o-animation: blink 1s infinite;
+}
 </style>
   </head>
 <body>
@@ -128,10 +142,14 @@ img {
 
 <fieldset>
 <legend style="color:MediumBlue;"><b>&nbsp;MURAL DE AVISOS&nbsp;</b></legend>
+  <br><img src="./alerta.png" class="piscar" />SEMANA NACIONAL DE CURSOS
+  <br>Programação do evento disponível [aqui]()
+  <br>Inscrição para o evento [aqui]()
+  <br>&nbsp;
   <br><b>CHAMADA:</b><span style="color: red;"><b>PREENCHIMENTO OBRIGATORIO</b> a cada aula</span> do formulário de 
       <a href="https://forms.gle/fCiagxrVp2bRp8K28" target="_new"><b>frequência na aula</b></a>. 
   <br>Esta devolutiva é necessária mesmo se houver chamada nominal dos alunos. Obrigado!
-  <br>&nbsp;
+  <br>&nbsp;  
   <br><b>Android Studio Cloud</b> (BETA): Disponível 
      <a href="https://studio.firebase.google.com/new/android-studio?hl=pt-br" target="_new">aqui</a>.
      Requer login de uma conta do Google.
