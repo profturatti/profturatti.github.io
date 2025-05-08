@@ -119,17 +119,21 @@ img {
               <br>Frequência<br>na aula
             </a>
         </td>
+      <!--
         <td><!-- 6 -->
-            <!-- a href="https://forms.gle/c135Z5mdV9Hh8znT6" target="_new" -->
+            <!-- a href="https://forms.gle/c135Z5mdV9Hh8znT6" target="_new" --
               <img src="apresentacao64g.png">
               <br>Conhecendo<br>o aluno
         </td>
-        <td><!-- 7 -->
+      -->
+      <!--
+        <td><!-- 7 --
             <a href="https://forms.gle/QftrBCRmaoW3EWPo9" target="_new">
               <img src="grupo64c.png">
               <br>Grupos de<br>Projetos
             </a>
         </td>
+      -->
     </tr>
 </table>
 
