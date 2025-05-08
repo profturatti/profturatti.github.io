@@ -146,9 +146,10 @@ img {
 
 <fieldset>
 <legend style="color:MediumBlue;"><b>&nbsp;MURAL DE AVISOS&nbsp;</b></legend>
-  <br><img src="./alerta.png" class="piscar" width="16" height="16" /><b>SEMANA NACIONAL DE CURSOS - 12 a 16 de maio de 2025</b>
-  <br>Programação do evento disponível <a href="https://github.com/profturatti/profturatti.github.io/blob/main/semanaTI.pdf">aqui</a>.
-      Faça sua inscrição <a href="https://www.even3.com.br/viii-semana-nacional-da-ti/">aqui</a>
+  <br><img src="./alerta.png" class="piscar" width="16" height="16" /> 
+      <b>SEMANA NACIONAL DE CURSOS - 12 a 16 de maio de 2025</b>
+  <br>Programação do evento disponível <a href="./semanaTI.pdf" target="_new">aqui</a>.
+      Faça sua inscrição <a href="https://www.even3.com.br/viii-semana-nacional-da-ti/" target="_new">aqui</a>
   <br>A ausência do aluno implicará em falta no dia da disciplina; Todas as participações terão horas AAC registradas.
   <br>&nbsp;
   <br><b>CHAMADA:</b><span style="color: red;"><b>PREENCHIMENTO OBRIGATORIO</b> a cada aula</span> do formulário de 
