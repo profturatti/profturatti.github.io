@@ -19,7 +19,7 @@
   align-items:center;
   justify-content:center;
   
-  height: 100vh;
+  /* height: 100vh; */
   /* width: 100%; */
   background: 'white';
 }
@@ -66,10 +66,12 @@ body {
   color: black;
   font-size: clamp(12px, 2vw, 20px);
   /* font-size: 5vw;  /* Font size will be 5% of the viewport width */
+  height: 90vh;
+  width: 90vw;
 }
 img {
   max-height: 64px;
-  min-height: 32px;
+  min-height: 16px;
   width: auto;
   /* max-height: 32px; */
   /* max-width: 32px; */
@@ -79,8 +81,7 @@ img {
 table {
   border: none;
   border-collapse: collapse;
-  min-width: 400px;
-  width: 100%;
+  width: 90vw;
 }
 th, td {
   border: 0px;
