@@ -81,15 +81,13 @@ body {
 table {
   border: none;
   border-collapse: collapse;
-  flex: 1;
+  width: 100%;
 }
 th, td {
   border: 0px;
-  flex: 1;
   font-size: clamp(8px, 2vw, 16px);
   padding: 4px;
   text-align: center;
-  min-width: 32px;
 }
 </style>
   </head>
@@ -100,42 +98,42 @@ th, td {
     <tr>
         <td><!-- 1 -->
             <a href="calendario25s1.pdf" target="_new">
-              <img src="calendario64.png" title="Calendário Acadêmico" class="icone">
+              <img src="calendario64.png" title="Calendário Acadêmico">
               <br>Calendário
             </a>
         </td>
         <td><!-- 2 -->
             <a href="&#109;ailto&#58;luiz&#46;tu&#114;&#97;tti&#64;profes&#115;ores&#46;&#117;n&#105;m&#101;trocamp&#46;edu&#46;br" target="_new">
-              <img src="envelope64wy.png" title="E-mail Wyden" class="icone">
+              <img src="envelope64wy.png" title="E-mail Wyden">
               <br>E-mail
             </a>
         </td>
         <td><!-- 3 -->
             <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;pr&#111;&#102;&#46;t&#117;&#114;&#97;tti&#64;&#103;mail&#46;c&#111;m" target="_new">
-              <img src="envelope64gmail.png" title="E-mail GMail" class="icone">
+              <img src="envelope64gmail.png" title="E-mail GMail">
               <br>E-mail
             </a>
         </td>
         <td><!-- 4 -->
             <a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new">
-              <img src="tutoriais64c.png" title="Materiais Complementares" class="icone">
+              <img src="tutoriais64c.png" title="Materiais Complementares">
               <br>Materiais
             </a>
         </td>
         <td><!-- 5 -->
             <a href="https://forms.gle/fCiagxrVp2bRp8K28" target="_new">
-              <img src="checklist64.png" title="Frequência na aula" class="icone">
+              <img src="checklist64.png" title="Frequência na aula">
               <br>Frequência
             </a>
         </td>
         <td><!-- 6 -->
             <!-- a href="https://forms.gle/c135Z5mdV9Hh8znT6" target="_new" -->
-              <img src="apresentacao64g.png" title="Conhecendo o aluno" class="icone">
+              <img src="apresentacao64g.png" title="Conhecendo o aluno">
               <br>Apresente-se
         </td>
         <td><!-- 7 -->
             <!-- a href="https://forms.gle/QftrBCRmaoW3EWPo9" target="_new" -->
-              <img src="grupo64g.png" title="Grupos de projetos" class="icone">
+              <img src="grupo64g.png" title="Grupos de projetos">
               <br>Grupos
         </td>
     </tr>
