@@ -69,19 +69,10 @@ body {
   height: 90vh;
   width: 90vw;
 }
-img {
-  max-height: 64px;
-  min-height: 16px;
-  width: auto;
-  /* max-height: 32px; */
-  /* max-width: 32px; */
-  /* min-height: 16px; */
-  /* min-width: 16px; */
-}
 table {
   border: none;
   border-collapse: collapse;
-  width: 90vw;
+  width: 100%;
 }
 th, td {
   border: 0px;
@@ -98,42 +89,42 @@ th, td {
     <tr>
         <td><!-- 1 -->
             <a href="calendario25s1.pdf" target="_new">
-              <img src="calendario64.png" title="Calendário Acadêmico">
+              <img src="calendario64.png" title="Calendário Acadêmico" height="32" width="auto" >
               <br>Calendário
             </a>
         </td>
         <td><!-- 2 -->
             <a href="&#109;ailto&#58;luiz&#46;tu&#114;&#97;tti&#64;profes&#115;ores&#46;&#117;n&#105;m&#101;trocamp&#46;edu&#46;br" target="_new">
-              <img src="envelope64wy.png" title="E-mail Wyden">
+              <img src="envelope64wy.png" title="E-mail Wyden" height="32" width="auto" >
               <br>E-mail
             </a>
         </td>
         <td><!-- 3 -->
             <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;pr&#111;&#102;&#46;t&#117;&#114;&#97;tti&#64;&#103;mail&#46;c&#111;m" target="_new">
-              <img src="envelope64gmail.png" title="E-mail GMail">
+              <img src="envelope64gmail.png" title="E-mail GMail" height="32" width="auto" >
               <br>E-mail
             </a>
         </td>
         <td><!-- 4 -->
             <a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new">
-              <img src="tutoriais64c.png" title="Materiais Complementares">
+              <img src="tutoriais64c.png" title="Materiais Complementares" height="32" width="auto" >
               <br>Materiais
             </a>
         </td>
         <td><!-- 5 -->
             <a href="https://forms.gle/fCiagxrVp2bRp8K28" target="_new">
-              <img src="checklist64.png" title="Frequência na aula">
+              <img src="checklist64.png" title="Frequência na aula" height="32" width="auto" >
               <br>Frequência
             </a>
         </td>
         <td><!-- 6 -->
             <!-- a href="https://forms.gle/c135Z5mdV9Hh8znT6" target="_new" -->
-              <img src="apresentacao64g.png" title="Conhecendo o aluno">
+              <img src="apresentacao64g.png" title="Conhecendo o aluno" height="32" width="auto" >
               <br>Apresente-se
         </td>
         <td><!-- 7 -->
             <!-- a href="https://forms.gle/QftrBCRmaoW3EWPo9" target="_new" -->
-              <img src="grupo64g.png" title="Grupos de projetos">
+              <img src="grupo64g.png" title="Grupos de projetos" height="32" width="auto" >
               <br>Grupos
         </td>
     </tr>
