@@ -99,13 +99,12 @@ img {
         <td><!-- 2 -->
             <a href="&#109;ailto&#58;luiz&#46;tu&#114;&#97;tti&#64;profes&#115;ores&#46;&#117;n&#105;m&#101;trocamp&#46;edu&#46;br" target="_new">
               <img src="envelope64wy.png" title="E-mail Wyden">
-              <br>Enviar<br>e-mail
+              <br>E-mail
             </a>
         </td>
         <td><!-- 3 -->
             <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;pr&#111;&#102;&#46;t&#117;&#114;&#97;tti&#64;&#103;mail&#46;c&#111;m" target="_new">
               <img src="envelope64gmail.png" title="E-mail GMail">
-              <br>Enviar<br>e-mail
             </a>
         </td>
         <td><!-- 4 -->
@@ -129,7 +128,6 @@ img {
             <!-- a href="https://forms.gle/QftrBCRmaoW3EWPo9" target="_new" -->
               <img src="grupo64g.png" title="Grupos de projetos">
               <br>Grupos
-            </a>
         </td>
     </tr>
 </table>
