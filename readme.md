@@ -42,8 +42,8 @@ body {
   padding: 8px;
   background-color: white;
   color: black;
-  /* font-size: 20px; */
-  font-size: 5vw;  /* Font size will be 5% of the viewport width */
+  font-size: 16px;
+  /* font-size: 5vw;  /* Font size will be 5% of the viewport width */
 }
 .dark-mode {
   background-color: black;
@@ -51,7 +51,7 @@ body {
 }
 table {
   display: flex;
-  border: none;
+  border: 0;
   border-collapse: collapse;
   table-layout: fixed;
   /* width: 100%; */
@@ -65,17 +65,16 @@ td {
   /* width: 14.28%; */
 }
 img {
-  max-width: 100%;
-  min-width: 24px;
+  max-width: 32px;
+  min-width: 16px;
   height: auto;
 }
-<!-- blink image -->
+/* -- blink image -- */
 @keyframes blink {
     0% { opacity: 1; }
     50% { opacity: 0; }
     100% { opacity: 1; }
 }
-
 .piscar {
     animation: blink 1s infinite;
     /* Inclui suporte para navegadores antigos, se necessário */
@@ -91,49 +90,45 @@ img {
     <tr>
         <td><!-- 1 -->
             <a href="calendario25s1.pdf" target="_new">
-              <img src="calendario64.png">  
-              <br>Calendário<br>Acadêmico
+              <img src="calendario64.png" title="Calendário Acadêmico">
+              <br>Calendário
             </a>
         </td>
         <td><!-- 2 -->
             <a href="&#109;ailto&#58;luiz&#46;tu&#114;&#97;tti&#64;profes&#115;ores&#46;&#117;n&#105;m&#101;trocamp&#46;edu&#46;br" target="_new">
-              <img src="envelope64wy.png"/>
-              <br>E-mail<br>Wyden
+              <img src="envelope64wy.png" title="E-mail Wyden">
+              <br>Enviar<br>e-mail
             </a>
         </td>
         <td><!-- 3 -->
             <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;pr&#111;&#102;&#46;t&#117;&#114;&#97;tti&#64;&#103;mail&#46;c&#111;m" target="_new">
-              <img src="envelope64gmail.png">
-              <br>E-mail<br>GMail
+              <img src="envelope64gmail.png" title="E-mail GMail">
+              <br>Enviar<br>e-mail
             </a>
         </td>
         <td><!-- 4 -->
             <a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new">
-              <img src="tutoriais64c.png">
-              <br>Materiais<br>Complementares
+              <img src="tutoriais64c.png" title="Materiais Complementares">
+              <br>Materiais
             </a>
         </td>
         <td><!-- 5 -->
             <a href="https://forms.gle/fCiagxrVp2bRp8K28" target="_new">
-              <img src="checklist64.png">
-              <br>Frequência<br>na aula
+              <img src="checklist64.png" title="Frequência na aula">
+              <br>Frequência
             </a>
         </td>
-      <!--
         <td><!-- 6 -->
-            <!-- a href="https://forms.gle/c135Z5mdV9Hh8znT6" target="_new" --
-              <img src="apresentacao64g.png">
-              <br>Conhecendo<br>o aluno
+            <!-- a href="https://forms.gle/c135Z5mdV9Hh8znT6" target="_new" -->
+              <img src="apresentacao64g.png" title="Conhecendo o aluno">
+              <br>Apresente-se
         </td>
-      -->
-      <!--
-        <td><!-- 7 --
-            <a href="https://forms.gle/QftrBCRmaoW3EWPo9" target="_new">
-              <img src="grupo64c.png">
-              <br>Grupos de<br>Projetos
+        <td><!-- 7 -->
+            <!-- a href="https://forms.gle/QftrBCRmaoW3EWPo9" target="_new" -->
+              <img src="grupo64g.png" title="Grupos de projetos">
+              <br>Grupos
             </a>
         </td>
-      -->
     </tr>
 </table>
 
@@ -155,14 +150,11 @@ img {
   <br><b>CHAMADA:</b><span style="color: red;"><b>PREENCHIMENTO OBRIGATORIO</b> a cada aula</span> do formulário de 
       <a href="https://forms.gle/fCiagxrVp2bRp8K28" target="_new"><b>frequência na aula</b></a>. 
   <br>Esta devolutiva é necessária mesmo se houver chamada nominal dos alunos. Obrigado!
-  <br>&nbsp;  
-  <br><b>Android Studio Cloud</b> (BETA): Disponível 
-     <a href="https://studio.firebase.google.com/new/android-studio?hl=pt-br" target="_new">aqui</a>.
-     Requer login de uma conta do Google.
   <br>&nbsp;
   <br><b>Histórico</b>
-  <br>1. <span style="color: red;">Até 28/02/2025</span> Formulário para apresentação do aluno ao professor: <b>Conhecendo o aluno</b> (preencher somente uma vez) 
-  <br>2. <span style="color: red;">Até 28/02/2025</span> Formulário para indicação dos <b>grupos de projeto</b> nas disciplinas (equipe para trabalho semestral)
+  <br>1. De 18/02 <span style="color: red;">até 28/02/2025</span> Formulário para apresentação do aluno ao professor: <b>Conhecendo o aluno</b> (preencher somente uma vez) 
+  <br>2. De 18/02 <span style="color: red;">até 28/02/2025</span> Formulário para indicação dos <b>grupos de projeto</b> nas disciplinas (equipe para trabalho semestral)
+  <br>Alunos ingressos após esse período, por favor, conversar com o professor.
   <br>&nbsp;
 </fieldset>
 </body>
