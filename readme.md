@@ -39,10 +39,11 @@
 }
 
 body {
+  display: flex;
   padding: 8px;
   background-color: white;
   color: black;
-  font-size: 16px;
+  font-size: clamp(12px, 2vw, 20px);
   /* font-size: 5vw;  /* Font size will be 5% of the viewport width */
 }
 .dark-mode {
@@ -50,19 +51,20 @@ body {
   color: white;
 }
 table {
-  display: flex;
-  border: 0;
+  flex: 1;
+  /* display: flex; */
+  border: none;
   border-collapse: collapse;
-  table-layout: fixed;
+  /* table-layout: fixed; */
   /* width: 100%; */
 }
-td {
+table td, table th {
   flex: 1;
   border: none;
-  font-size: clamp(8px, 4vw, 16px);
+  border-collapse: collapse;
+  font-size: clamp(8px, 2vw, 16px);
   padding: 4px;
   text-align: center;
-  /* width: 14.28%; */
 }
 img {
   max-width: 32px;
@@ -152,9 +154,10 @@ img {
   <br>Esta devolutiva é necessária mesmo se houver chamada nominal dos alunos. Obrigado!
   <br>&nbsp;
   <br><b>Histórico</b>
-  <br>1. De 18/02 <span style="color: red;">até 28/02/2025</span> Formulário para apresentação do aluno ao professor: <b>Conhecendo o aluno</b> (preencher somente uma vez) 
-  <br>2. De 18/02 <span style="color: red;">até 28/02/2025</span> Formulário para indicação dos <b>grupos de projeto</b> nas disciplinas (equipe para trabalho semestral)
-  <br>Alunos ingressos após esse período, por favor, conversar com o professor.
+  <br>Preenchimento dos formulários disponíveis através dos ícones no topo da página
+  <br>1. De 18/02 <span style="color: red;">até 28/02/2025</span> <b>Conhecendo o aluno</b> (preencher somente uma vez) 
+  <br>2. De 18/02 <span style="color: red;">até 28/02/2025</span> <b>Grupos</b> - equipe para trabalho semestral da disciplina
+  <br><b>Alunos ingressos após esse período, por favor, conversar com o professor.</b>
   <br>&nbsp;
 </fieldset>
 </body>
