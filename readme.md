@@ -85,6 +85,7 @@ th, td {
   font-size: clamp(8px, 2vw, 16px);
   padding: 4px;
   text-align: center;
+  min-width: 32px;
 }
 </style>
   </head>
