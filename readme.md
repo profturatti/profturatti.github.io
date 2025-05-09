@@ -68,8 +68,9 @@ body {
   /* font-size: 5vw;  /* Font size will be 5% of the viewport width */
 }
 img {
-  height: 32px;
-  width: 32px;
+  max-height: auto;
+  min-height: 32px;
+  width: auto;
   /* max-height: 32px; */
   /* max-width: 32px; */
   /* min-height: 16px; */
