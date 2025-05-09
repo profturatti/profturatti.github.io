@@ -20,7 +20,7 @@
   justify-content:center;
   
   height: 100vh;
-  width: 100%;
+  /* width: 100%; */
   background: 'white';
 }
 .centralize {
@@ -35,41 +35,11 @@
   padding:8px;
   align-items:center;
   flex-direction:column;
-  font-size: 32px;
-}
-
-body {
-  display: flex;
-  padding: 8px;
-  background-color: white;
-  color: black;
-  font-size: clamp(12px, 2vw, 20px);
-  /* font-size: 5vw;  /* Font size will be 5% of the viewport width */
+  /* font-size: 32px; */
 }
 .dark-mode {
   background-color: black;
   color: white;
-}
-.tabela-responsiva {
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch; /* rolagem suave no iOS */
-}  
-table {
-  border: none;
-  border-collapse: collapse;
-  min-width: 400px;
-  width: 100%;
-}
-th, td {
-  border: 0px;
-  font-size: clamp(8px, 2vw, 16px);
-  padding: 4px;
-  text-align: center;
-}
-img {
-  max-width: 32px;
-  min-width: 16px;
-  height: auto;
 }
 /* -- blink image -- */
 @keyframes blink {
@@ -83,6 +53,39 @@ img {
     -webkit-animation: blink 1s infinite;
     -moz-animation: blink 1s infinite;
     -o-animation: blink 1s infinite;
+}
+.tabela-responsiva {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; /* rolagem suave no iOS */
+}  
+
+body {
+  display: flex;
+  padding: 8px;
+  background-color: white;
+  color: black;
+  font-size: clamp(12px, 2vw, 20px);
+  /* font-size: 5vw;  /* Font size will be 5% of the viewport width */
+}
+img {
+  height: 32px;
+  width: 32px;
+  /* max-height: 32px; */
+  /* max-width: 32px; */
+  /* min-height: 16px; */
+  /* min-width: 16px; */
+}
+table {
+  border: none;
+  border-collapse: collapse;
+  min-width: 400px;
+  width: 100%;
+}
+th, td {
+  border: 0px;
+  font-size: clamp(8px, 2vw, 16px);
+  padding: 4px;
+  text-align: center;
 }
 </style>
   </head>
