@@ -50,18 +50,18 @@ body {
   background-color: black;
   color: white;
 }
+.tabela-responsiva {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; /* rolagem suave no iOS */
+}  
 table {
-  flex: 1;
-  /* display: flex; */
   border: none;
   border-collapse: collapse;
-  /* table-layout: fixed; */
-  /* width: 100%; */
+  min-width: 400px;
+  width: 100%;
 }
-table td, table th {
-  flex: 1;
-  border: none;
-  border-collapse: collapse;
+th, td {
+  border: 0px;
   font-size: clamp(8px, 2vw, 16px);
   padding: 4px;
   text-align: center;
@@ -88,7 +88,8 @@ img {
   </head>
 <body>
 
-<table>
+<div class="tabela-responsiva">
+  <table>
     <tr>
         <td><!-- 1 -->
             <a href="calendario25s1.pdf" target="_new">
@@ -105,6 +106,7 @@ img {
         <td><!-- 3 -->
             <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;pr&#111;&#102;&#46;t&#117;&#114;&#97;tti&#64;&#103;mail&#46;c&#111;m" target="_new">
               <img src="envelope64gmail.png" title="E-mail GMail">
+              <br>E-mail
             </a>
         </td>
         <td><!-- 4 -->
@@ -130,7 +132,8 @@ img {
               <br>Grupos
         </td>
     </tr>
-</table>
+  </table>
+</div>
 
 <p><b>Prezado estudante, seja bem-vindo!</b></p>
 
@@ -154,7 +157,7 @@ img {
   <br><b>Histórico</b>
   <br>Preenchimento dos formulários disponíveis através dos ícones no topo da página
   <br>1. De 18/02 <span style="color: red;">até 28/02/2025</span> <b>Conhecendo o aluno</b> (preencher somente uma vez) 
-  <br>2. De 18/02 <span style="color: red;">até 28/02/2025</span> <b>Grupos</b> - equipe para trabalho semestral da disciplina
+  <br>2. De 18/02 <span style="color: red;">até 28/02/2025</span> <b>Grupos</b> - equipe para trabalho semestral na disciplina
   <br><b>Alunos ingressos após esse período, por favor, conversar com o professor.</b>
   <br>&nbsp;
 </fieldset>
