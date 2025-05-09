@@ -50,7 +50,8 @@
 .icone {
   max-height: 64px;
   min-height: 32px;
-  width: auto;
+  max-width: 64px;
+  min-width: 32px;
 }
 .piscar {
     animation: blink 1s infinite;
