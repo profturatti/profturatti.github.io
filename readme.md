@@ -48,10 +48,13 @@
     100% { opacity: 1; }
 }
 .icone {
-  max-height: 64px;
+  /* max-height: 64px;
   min-height: 32px;
   max-width: 64px;
   min-width: 32px;
+  */
+  height: 64px;
+  width: 64px;
 }
 .piscar {
     animation: blink 1s infinite;
