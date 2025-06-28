@@ -157,6 +157,9 @@ th, td {
   <br>A ausência do aluno implicará em falta no dia da disciplina; Todas as participações terão horas AAC registradas.
   <br>&nbsp;
   -->
+  <br> Situação da disciplina Python RAD Turmas 3002 e 3005:
+       <a href="./25s1_pythonFinal.pdf" target="_new">aqui</a>
+  
   <br><b>CHAMADA:</b><span style="color: red;"> <b>PREENCHIMENTO OBRIGATORIO</b> a cada aula</span> do formulário de 
       <a href="https://forms.gle/fCiagxrVp2bRp8K28" target="_new"><b>frequência na aula</b></a>. 
   <br>Esta devolutiva é necessária mesmo se houver chamada nominal dos alunos. Obrigado!
