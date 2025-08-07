@@ -97,7 +97,7 @@ th, td {
   <table>
     <tr>
         <td><!-- 1 -->
-            <a href="calendario25s1.pdf" target="_new">
+            <!-- a href="calendario25s1.pdf" target="_new" -->
               <img src="calendario64.png" title="Calendário Acadêmico">
               <br>Calendário
             </a>
