@@ -100,7 +100,7 @@ th, td {
             <!-- a href="calendario25s1.pdf" target="_new" -->
               <img src="calendario64.png" title="Calendário Acadêmico">
               <br>Calendário
-            </a>
+            <!-- /a -->
         </td>
         <td><!-- 2 -->
             <a href="&#109;ailto&#58;luiz&#46;tu&#114;&#97;tti&#64;profes&#115;ores&#46;&#117;n&#105;m&#101;trocamp&#46;edu&#46;br" target="_new">
