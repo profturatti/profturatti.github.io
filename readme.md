@@ -121,19 +121,19 @@ th, td {
             </a>
         </td>
         <td><!-- 5 -->
-            <a href="https://forms.gle/fCiagxrVp2bRp8K28" target="_new">
+            <a href="https://forms.gle/FcoeJDk6mbbpSJ899" target="_new">
               <img src="checklist64.png" title="Frequência na aula">
               <br>Frequência
             </a>
         </td>
         <td><!-- 6 -->
-            <!-- a href="https://forms.gle/c135Z5mdV9Hh8znT6" target="_new" -->
-              <img src="apresentacao64g.png" title="Conhecendo o aluno">
+            <!-- a href="https://forms.gle/ioGMo3dguScWXSM7A" target="_new" -->
+              <img src="apresentacao64.png" title="Conhecendo o aluno">
               <br>Apresente-se
         </td>
         <td><!-- 7 -->
-            <!-- a href="https://forms.gle/QftrBCRmaoW3EWPo9" target="_new" -->
-              <img src="grupo64g.png" title="Grupos de projetos">
+            <!-- a href="https://forms.gle/tYYQc7rgiQpTtT3w9" target="_new" -->
+              <img src="grupo64.png" title="Grupos de projetos">
               <br>Grupos
         </td>
     </tr>
@@ -156,7 +156,7 @@ th, td {
       Faça sua inscrição <a href="https://www.even3.com.br/viii-semana-nacional-da-ti/" target="_new">aqui</a>
   <br>A ausência do aluno implicará em falta no dia da disciplina; Todas as participações terão horas AAC registradas.
   <br>&nbsp;
-  -->
+  
   <br><b>Segunda-feira - Situação da disciplina Python RAD Turmas 3002 e 3005:</b>
        <a href="./25s1_pythonFinal.pdf" target="_new">aqui</a>
   <br>
@@ -166,16 +166,19 @@ th, td {
   <br><b>Quinta-feira - Situação da disciplina Android Turmas 3003 e 3027:</b>
        <a href="" target="_new"></a> EM BREVE
   <br>
+  -->
   <br><b>CHAMADA:</b><span style="color: red;"> <b>PREENCHIMENTO OBRIGATORIO</b> a cada aula</span> do formulário de 
       <a href="https://forms.gle/fCiagxrVp2bRp8K28" target="_new"><b>frequência na aula</b></a>. 
   <br>Esta devolutiva é necessária mesmo se houver chamada nominal dos alunos. Obrigado!
   <br>&nbsp;
+  <!--
   <br><b>Histórico</b>
   <br>Preenchimento dos formulários disponíveis através dos ícones no topo da página
   <br>1. De 18/02 <span style="color: red;">até 28/02/2025</span> <b>Conhecendo o aluno</b> (preencher somente uma vez) 
   <br>2. De 18/02 <span style="color: red;">até 28/02/2025</span> <b>Grupos</b> - equipe para trabalho semestral na disciplina
   <br><b>Alunos ingressos após esse período, por favor, conversar com o professor.</b>
   <br>&nbsp;
+  -->
 </fieldset>
 </body>
 </html>
