@@ -142,9 +142,9 @@ th, td {
 
 <p><b>Prezado estudante, seja bem-vindo!</b></p>
 
-<p><b>Acesse os conteúdos de 2025.1 através do nome da disciplina cursada: </b>
-  <a href="https://github.com/profturatti/android" target="_new">Android</a> | 
-  <a href="https://github.com/profturatti/pythonRAD" target="_new">Python RAD</a> 
+<p><b>Acesse os conteúdos de 2025.2 através do nome da disciplina cursada: </b>
+  <a href="https://github.com/profturatti/android" target="_new">Android</a>
+  <!-- |  <a href="https://github.com/profturatti/pythonRAD" target="_new">Python RAD</a>  -->
 </p>
 
 <fieldset>
