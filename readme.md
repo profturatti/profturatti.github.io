@@ -127,13 +127,14 @@ th, td {
             </a>
         </td>
         <td><!-- 6 -->
-            <!-- a href="https://forms.gle/ioGMo3dguScWXSM7A" target="_new" -->
+            <a href="https://forms.gle/ioGMo3dguScWXSM7A" target="_new">
               <img src="apresentacao64.png" title="Conhecendo o aluno">
               <br>Apresente-se
+            </a>
         </td>
         <td><!-- 7 -->
             <!-- a href="https://forms.gle/tYYQc7rgiQpTtT3w9" target="_new" -->
-              <img src="grupo64.png" title="Grupos de projetos">
+              <img src="grupo64g.png" title="Grupos de projetos">
               <br>Grupos
         </td>
     </tr>
