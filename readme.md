@@ -136,6 +136,7 @@ th, td {
             <a href="https://forms.gle/aXhFwHaZyf4QCxuNA" target="_new" >
               <img src="grupo64c.png" title="Grupos de projetos">
               <br>Grupos
+            </a>
         </td>
     </tr>
   </table>
