@@ -133,7 +133,7 @@ th, td {
             </a>
         </td>
         <td><!-- 7 -->
-            <!-- a href="https://forms.gle/aXhFwHaZyf4QCxuNA" target="_new" -->
+            <a href="https://forms.gle/aXhFwHaZyf4QCxuNA" target="_new" >
               <img src="grupo64c.png" title="Grupos de projetos">
               <br>Grupos
         </td>
