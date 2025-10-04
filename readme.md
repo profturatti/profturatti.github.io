@@ -158,7 +158,7 @@ th, td {
       Faça sua inscrição <a href="https://www.even3.com.br/viii-semana-nacional-da-ti/" target="_new">aqui</a>
   <br>A ausência do aluno implicará em falta no dia da disciplina; Todas as participações terão horas AAC registradas.
   <br>&nbsp;
-  
+  <!--
   <br><b>Segunda-feira - Situação da disciplina Python RAD Turmas 3002 e 3005:</b>
        <a href="./25s1_pythonFinal.pdf" target="_new">aqui</a>
   <br>
@@ -173,6 +173,9 @@ th, td {
       <a href="https://forms.gle/fCiagxrVp2bRp8K28" target="_new"><b>frequência na aula</b></a>. 
   <br>Esta devolutiva é necessária mesmo se houver chamada nominal dos alunos. Obrigado!
   <br>&nbsp;
+  <br>Crie sua conta na Digital Ocean com 
+      <a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGdSdlZvxdC8f_xVbp2UX5DU1w9kQ1Yr2n4hvtjWeuzNpCZKmloX6qVZFVPtxIshJZtCJVa-K8=">este link</a>
+      e receba $200 em créditos para utilizar em seus projetos
   <!--
   <br><b>Histórico</b>
   <br>Preenchimento dos formulários disponíveis através dos ícones no topo da página
