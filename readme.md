@@ -174,7 +174,7 @@ th, td {
   <br>Esta devolutiva é necessária mesmo se houver chamada nominal dos alunos. Obrigado!
   <br>&nbsp;
   <br>Crie sua conta na Digital Ocean com 
-      <a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGdSdlZvxdC8f_xVbp2UX5DU1w9kQ1Yr2n4hvtjWeuzNpCZKmloX6qVZFVPtxIshJZtCJVa-K8=">este link</a>
+      <a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGdSdlZvxdC8f_xVbp2UX5DU1w9kQ1Yr2n4hvtjWeuzNpCZKmloX6qVZFVPtxIshJZtCJVa-K8=" target="_new">este link</a>
       e receba $200 em créditos para utilizar em seus projetos
   <!--
   <br><b>Histórico</b>
