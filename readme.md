@@ -176,6 +176,11 @@ th, td {
   <br>Crie sua conta na Digital Ocean com 
       <a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGdSdlZvxdC8f_xVbp2UX5DU1w9kQ1Yr2n4hvtjWeuzNpCZKmloX6qVZFVPtxIshJZtCJVa-K8=" target="_new">este link</a>
       e receba $200 em créditos para utilizar em seus projetos
+  <br>&nbsp;
+  <br><b>SEPESQI 2025 no período de 14/11 a 28/11</b>
+  <br><b>TODAS</b> as disciplinas <b>EXTENSIONISTAS</b> devem participar.
+  <br>A inscrição é obrigatória até 07/11/2025 <a href="https://forms.office.com/r/AqsiuUDkyB">neste formulário</a>.
+  <br>As apresentações dos trabalhos serão realizadas na própria sala de aula, orientações após as inscrições.
   <!--
   <br><b>Histórico</b>
   <br>Preenchimento dos formulários disponíveis através dos ícones no topo da página
