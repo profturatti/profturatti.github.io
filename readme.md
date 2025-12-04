@@ -160,10 +160,7 @@ th, td {
   <br>Karina Morais de Oliveira
   <br>Leticia Novaes Antunes
   <br>Walquiria Goncalves Barbosa
-  <p></p>
-  <br>Eduardo Palermo Gonçalves
-  <br>Gabriel Bonaretti da Silva
-  <br>Matheus Aprigio de Jesus
+  <br>
 
 </fieldset>
 </body>
