@@ -154,10 +154,17 @@ th, td {
       <a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGdSdlZvxdC8f_xVbp2UX5DU1w9kQ1Yr2n4hvtjWeuzNpCZKmloX6qVZFVPtxIshJZtCJVa-K8=" target="_new">este link</a>
       e receba $200 em créditos para utilizar em seus projetos
   <br>&nbsp;
-  <br><span style="color:MediumBlue;"><b>SEPESQI 2025</b></span>
-  <br><b>Apresentação:</b> na semana de 24/11 a 28/11 em minhas disciplinas.
-  <br><b>Local:</b> Serão realizadas na própria sala de aula (LAB 206)
-  <br><b>Horário:</b> das 19h00 as 21h30
+  <br><span style="color:red;"><b>Pendências de documentação</b></span>
+  <br><b>Os grupos abaixo precisam enviar todos os documentos informados por e-mail até 04/12 23h59</b>
+  <p>Karina Morais de Oliveira
+  <br>Leticia Novaes Antunes
+  <br>Walquiria Goncalves Barbosa
+  <p>Guilherme Proton Silva dos Santos
+  <br>Luís Flávio de Moraes Queirod de Oliveira
+  <br>Wellington da Cruz Caldeira
+  <p>Eduardo Palermo Gonçalves
+  <br>Gabriel Bonaretti da Silva
+  <br>Matheus Aprigio de Jesus
   
 </fieldset>
 </body>
