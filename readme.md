@@ -157,15 +157,11 @@ th, td {
   <br><span style="color:red;"><b>Pendências de documentação</b></span>
   <br><b>Os grupos abaixo precisam enviar todos os documentos informados por e-mail até 04/12 23h59</b>
   
-  <p>Karina Morais de Oliveira</p>
+  <br>Karina Morais de Oliveira
   <br>Leticia Novaes Antunes
   <br>Walquiria Goncalves Barbosa
-  
-  <p>Guilherme Proton Silva dos Santos</p>
-  <br>Luís Flávio de Moraes Queirod de Oliveira
-  <br>Wellington da Cruz Caldeira
-  
-  <p>Eduardo Palermo Gonçalves</p>
+  <p></p>
+  <br>Eduardo Palermo Gonçalves
   <br>Gabriel Bonaretti da Silva
   <br>Matheus Aprigio de Jesus
 
