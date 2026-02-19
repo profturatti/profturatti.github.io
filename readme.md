@@ -143,23 +143,19 @@ th, td {
   </table>
 </div>
 
-<p><b>Prezado estudante, seja bem-vindo!</b></p>
-
 <p><div class="texto">2026.1</div></p>
 
-<p>Acesse a programação da disciplina cursada: <b>Android</b>
-  <a href="https://github.com/profturatti/android2a" target="_new">Turma Segunda-feira</a> |
-  <a href="https://github.com/profturatti/android5a" target="_new">Turma Quinta-feira</a>
-</p>
+<p><b>Prezado estudante, seja bem-vindo!</b></p>
+
 
 <fieldset>
 <legend style="color:MediumBlue;"><b>&nbsp;DISCIPLINAS&nbsp;</b></legend>
   <br> Quarta-feira: <b>JAVA - POO (LAB)</b>
   <br>&nbsp;
-  <br> Quinta-feira: <a href="https://github.com/profturatti/android2a" target="_new"><b>LÓGICA (Teoria e LAB)</b></a>
+  <br> Quinta-feira: <a href="https://github.com/profturatti/logica" target="_new"><b>LÓGICA (Teoria e LAB)</b></a>
   <br>&nbsp;
-
 </fieldset>
+<br>&nbsp;
 
 <fieldset>
 <legend style="color:MediumBlue;"><b>&nbsp;MURAL DE AVISOS&nbsp;</b></legend>
