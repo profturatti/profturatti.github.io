@@ -115,7 +115,7 @@ th, td {
         </td>
         -->
         <!-- e-mail gmail -->
-        <td> -- 2 --
+        <td> 
             <a href="&#109;ailto&#58;luiz&#46;tu&#114;&#97;tti&#64;docente&#46;unip&#46;br" target="_new">
               <img src="./assets/png/envelope64gmail.png" title="E-mail GMail">
               <br>E-mail
