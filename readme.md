@@ -115,6 +115,12 @@ th, td {
         </td>
         -->
         <!-- e-mail gmail -->
+        <td> -- 2 --
+            <a href="&#109;ailto&#58;luiz&#46;tu&#114;&#97;tti&#64;docente&#46;unip&#46;br" target="_new">
+              <img src="./assets/png/envelope64gmail.png" title="E-mail GMail">
+              <br>E-mail
+            </a>
+        </td>
         <td><!-- 4 -->
             <a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new">
               <img src="./assets/png/tutoriais64.png" title="Materiais Complementares">
@@ -129,7 +135,7 @@ th, td {
         </td> -->
         <td><!-- 6 -->
             <a href="https://forms.gle/4HLRbMwNGGgsrzjDA" target="_new">
-              <img src="./assets/png/apresentacao64g.png" title="Conhecendo o aluno">
+              <img src="./assets/png/apresentacao64.png" title="Conhecendo o aluno">
               <br>Apresente-se
             </a>
         </td>
