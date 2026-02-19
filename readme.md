@@ -97,17 +97,18 @@ th, td {
   <table>
     <tr>
         <td><!-- 1 -->
-            <a href="./calendar/cal25s2.pdf" target="_new">
+            <a href="https://drive.google.com/file/d/12Yy-bXWH0BD7lz8zxchCLgcVW1jD41o2/view" target="_new">
               <img src="./assets/png/calendario64.png" title="Calendário Acadêmico">
               <br>Calendário
             </a>
         </td>
-        <td><!-- 2 -->
+        <!-- <td> -- 2 --
             <a href="&#109;ailto&#58;luiz&#46;tu&#114;&#97;tti&#64;profes&#115;ores&#46;&#117;n&#105;m&#101;trocamp&#46;edu&#46;br" target="_new">
               <img src="./assets/png/envelope64wy.png" title="E-mail Wyden">
               <br>E-mail
             </a>
         </td>
+        -->
         <!-- e-mail gmail -->
         <td><!-- 4 -->
             <a href="https://github.com/profturatti/materiais/blob/main/README.md" target="_new">
@@ -115,24 +116,24 @@ th, td {
               <br>Materiais
             </a>
         </td>
-        <td><!-- 5 -->
+        <!-- <td> -- 5 --
             <a href="https://forms.gle/FcoeJDk6mbbpSJ899" target="_new">
               <img src="./assets/png/checklist64.png" title="Frequência na aula">
               <br>Frequência
             </a>
-        </td>
+        </td> -->
         <td><!-- 6 -->
-            <!-- a href="https://forms.gle/oSfYRDpx1Kr7C17n7" target="_new" -->
+            <a href="https://forms.gle/4HLRbMwNGGgsrzjDA" target="_new">
               <img src="./assets/png/apresentacao64g.png" title="Conhecendo o aluno">
               <br>Apresente-se
-            <!-- /a -->
+            </a>
         </td>
-        <td><!-- 7 -->
+        <!-- <td>  -- 7 --
             <!-- a href="https://forms.gle/aXhFwHaZyf4QCxuNA" target="_new" -->
               <img src="./assets/png/grupo64g.png" title="Grupos de projetos">
               <br>Grupos
             <!-- /a -->
-        </td>
+        </td> -->
     </tr>
   </table>
 </div>
