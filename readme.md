@@ -83,6 +83,11 @@ table {
   border-collapse: collapse;
   width: 100%;
 }
+.texto {
+            font-size: 30px;
+            font-weight: bold;
+            color: #333;
+        }
 th, td {
   border: 0px;
   font-size: clamp(8px, 2vw, 16px);
@@ -129,10 +134,10 @@ th, td {
             </a>
         </td>
         <!-- <td>  -- 7 --
-            <!-- a href="https://forms.gle/aXhFwHaZyf4QCxuNA" target="_new" -->
+            <a href="url" target="_new">
               <img src="./assets/png/grupo64g.png" title="Grupos de projetos">
               <br>Grupos
-            <!-- /a -->
+            </a>
         </td> -->
     </tr>
   </table>
@@ -140,28 +145,27 @@ th, td {
 
 <p><b>Prezado estudante, seja bem-vindo!</b></p>
 
+<p><div class="texto">2026.1</div></p>
+
 <p>Acesse a programação da disciplina cursada: <b>Android</b>
   <a href="https://github.com/profturatti/android2a" target="_new">Turma Segunda-feira</a> |
   <a href="https://github.com/profturatti/android5a" target="_new">Turma Quinta-feira</a>
 </p>
 
 <fieldset>
+<legend style="color:MediumBlue;"><b>&nbsp;DISCIPLINAS&nbsp;</b></legend>
+  <br> Quarta-feira: <b>JAVA - POO (LAB)</b>
+  <br>&nbsp;
+  <br> Quinta-feira: <a href="https://github.com/profturatti/android2a" target="_new"><b>LÓGICA (Teoria e LAB)</b></a>
+  <br>&nbsp;
+
+</fieldset>
+
+<fieldset>
 <legend style="color:MediumBlue;"><b>&nbsp;MURAL DE AVISOS&nbsp;</b></legend>
-  <br><b>CHAMADA:</b><span style="color: red;"> <b>PREENCHIMENTO OBRIGATORIO</b> a cada aula</span> do formulário de 
-      <a href="https://forms.gle/fCiagxrVp2bRp8K28" target="_new"><b>frequência na aula</b></a>. 
-  <br>Esta devolutiva é necessária mesmo se houver chamada nominal dos alunos. Obrigado!
+  <br><b>CHAMADA:</b> Será passada lista em sala de aula.
   <br>&nbsp;
-  <br><b>Ambiente para testes:</b> Crie sua conta na Digital Ocean com 
-      <a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGdSdlZvxdC8f_xVbp2UX5DU1w9kQ1Yr2n4hvtjWeuzNpCZKmloX6qVZFVPtxIshJZtCJVa-K8=" target="_new">este link</a>
-      e receba $200 em créditos para utilizar em seus projetos
-  <br>&nbsp;
-  <br><span style="color:red;"><b>Pendências de documentação</b></span>
-  <br><b>Os grupos abaixo precisam enviar todos os documentos informados por e-mail até 04/12 23h59</b>
   
-  <br>Karina Morais de Oliveira
-  <br>Leticia Novaes Antunes
-  <br>Walquiria Goncalves Barbosa
-  <br>
 
 </fieldset>
 </body>
