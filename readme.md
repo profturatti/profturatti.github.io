@@ -156,7 +156,7 @@ th, td {
 
 <fieldset>
 <legend style="color:MediumBlue;"><b>&nbsp;DISCIPLINAS&nbsp;</b></legend>
-  <br> Quarta-feira: <b>JAVA - POO (LAB)</b>
+  <br> Quarta-feira: <a href="https://github.com/profturatti/java/tree/main" target="_new"><b>JAVA - POO (LAB)</b></a>
   <br>&nbsp;
   <br> Quinta-feira: <a href="https://github.com/profturatti/logica" target="_new"><b>LÓGICA (Teoria e LAB)</b></a>
   <br>&nbsp;
